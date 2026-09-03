@@ -77,6 +77,46 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="section production-video-section" data-reveal>
+        <div className="shell">
+          <div className="section-heading-row production-video-heading">
+            <div>
+              <p className="eyebrow">Production in motion</p>
+              <h2 className="section-title">
+                Watch an automated panel line in operation.
+              </h2>
+            </div>
+            <p>
+              Automated handling and pressing help organize repeatable panel
+              production. The source, construction, specification and inspection
+              route for every Boreviax order are confirmed separately.
+            </p>
+          </div>
+          <figure className="production-video-frame" data-reveal>
+            <video
+              controls
+              playsInline
+              preload="metadata"
+              poster="/assets/panel-production-line-poster.webp"
+              aria-describedby="production-video-caption"
+            >
+              <source
+                src="/assets/panel-production-line.mp4"
+                type="video/mp4"
+              />
+              Your browser does not support embedded video.
+            </video>
+            <figcaption id="production-video-caption">
+              <strong>Automated panel handling and press cycle</strong>
+              <span>
+                Representative production footage; the actual production source
+                and controls are confirmed order by order.
+              </span>
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+
       <section className="material-impact-section" data-reveal>
         <img
           className="material-impact-background"
