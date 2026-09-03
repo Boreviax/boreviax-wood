@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, MouseEvent, useState } from "react";
+import { quoteFormCopy, type Locale } from "../i18n/config";
 
 const whatsappContacts = [
   { label: "+86 158 6690 2023", value: "8615866902023" },
@@ -30,21 +31,29 @@ const initialDetails: QuoteDetails = {
   whatsapp: whatsappContacts[0].value,
 };
 
-function buildMessage(details: QuoteDetails) {
+function buildMessage(details: QuoteDetails, locale: Locale) {
+  const copy = quoteFormCopy[locale];
   return [
-    "Hello Boreviax, I would like a board-material quotation.",
+    copy.greeting,
     "",
-    `Product: ${details.product}`,
-    `Size / thickness: ${details.size}`,
-    `Quantity: ${details.quantity}`,
-    `Destination: ${details.destination}`,
-    `Application / performance target: ${details.application}`,
-    `Required date: ${details.requiredDate}`,
-    `Contact name / company: ${details.contact}`,
+    `${copy.product}: ${details.product}`,
+    `${copy.size}: ${details.size}`,
+    `${copy.quantity}: ${details.quantity}`,
+    `${copy.destination}: ${details.destination}`,
+    `${copy.application}: ${details.application}`,
+    `${copy.requiredDate}: ${details.requiredDate}`,
+    `${copy.contact}: ${details.contact}`,
   ].join("\n");
 }
 
-export function QuoteForm({ defaultProduct = "" }: { defaultProduct?: string }) {
+export function QuoteForm({
+  defaultProduct = "",
+  locale = "en",
+}: {
+  defaultProduct?: string;
+  locale?: Locale;
+}) {
+  const copy = quoteFormCopy[locale];
   const [details, setDetails] = useState<QuoteDetails>({
     ...initialDetails,
     product: defaultProduct,
@@ -56,7 +65,7 @@ export function QuoteForm({ defaultProduct = "" }: { defaultProduct?: string }) 
 
   const sendWhatsApp = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    const message = encodeURIComponent(buildMessage(details));
+    const message = encodeURIComponent(buildMessage(details, locale));
     window.open(`https://wa.me/${details.whatsapp}?text=${message}`, "_blank");
   };
 
@@ -67,9 +76,9 @@ export function QuoteForm({ defaultProduct = "" }: { defaultProduct?: string }) 
     }
 
     const subject = encodeURIComponent(
-      `Board RFQ — ${details.product || "New enquiry"}`,
+      `${copy.subject} — ${details.product || copy.newEnquiry}`,
     );
-    const body = encodeURIComponent(buildMessage(details));
+    const body = encodeURIComponent(buildMessage(details, locale));
     window.location.href = `mailto:sales@boreviax.com?subject=${subject}&body=${body}`;
   };
 
@@ -77,71 +86,71 @@ export function QuoteForm({ defaultProduct = "" }: { defaultProduct?: string }) 
     <form className="quote-form" onSubmit={sendWhatsApp}>
       <div className="field-grid">
         <label>
-          <span>Product / board type</span>
+          <span>{copy.product}</span>
           <input
             value={details.product}
             onChange={(event) => update("product", event.target.value)}
-            placeholder="e.g. Duraply"
+            placeholder={copy.productPlaceholder}
             required
           />
         </label>
         <label>
-          <span>Size / thickness</span>
+          <span>{copy.size}</span>
           <input
             value={details.size}
             onChange={(event) => update("size", event.target.value)}
-            placeholder="e.g. 1220 × 2440 × 18 mm"
+            placeholder={copy.sizePlaceholder}
             required
           />
         </label>
         <label>
-          <span>Quantity</span>
+          <span>{copy.quantity}</span>
           <input
             value={details.quantity}
             onChange={(event) => update("quantity", event.target.value)}
-            placeholder="Sheets or containers"
+            placeholder={copy.quantityPlaceholder}
             required
           />
         </label>
         <label>
-          <span>Destination</span>
+          <span>{copy.destination}</span>
           <input
             value={details.destination}
             onChange={(event) => update("destination", event.target.value)}
-            placeholder="City / port / country"
+            placeholder={copy.destinationPlaceholder}
             required
           />
         </label>
         <label className="field-wide">
-          <span>Application / performance target</span>
+          <span>{copy.application}</span>
           <textarea
             value={details.application}
             onChange={(event) => update("application", event.target.value)}
-            placeholder="Finish, emission, moisture, fire, structural or acoustic requirement"
+            placeholder={copy.applicationPlaceholder}
             rows={4}
             required
           />
         </label>
         <label>
-          <span>Required date</span>
+          <span>{copy.requiredDate}</span>
           <input
             value={details.requiredDate}
             onChange={(event) => update("requiredDate", event.target.value)}
-            placeholder="Target production or arrival date"
+            placeholder={copy.requiredDatePlaceholder}
             required
           />
         </label>
         <label>
-          <span>Name / company</span>
+          <span>{copy.contact}</span>
           <input
             value={details.contact}
             onChange={(event) => update("contact", event.target.value)}
-            placeholder="How should we address you?"
+            placeholder={copy.contactPlaceholder}
             required
           />
         </label>
         <label className="field-wide">
-          <span>Choose a WhatsApp contact</span>
+          <span>{copy.chooseWhatsApp}</span>
           <select
             value={details.whatsapp}
             onChange={(event) => update("whatsapp", event.target.value)}
@@ -156,15 +165,13 @@ export function QuoteForm({ defaultProduct = "" }: { defaultProduct?: string }) 
       </div>
       <div className="form-actions">
         <button className="button button-primary" type="submit">
-          Send via WhatsApp
+          {copy.sendWhatsApp}
         </button>
         <button className="button button-secondary" type="button" onClick={sendEmail}>
-          Send by email
+          {copy.sendEmail}
         </button>
       </div>
-      <p className="form-note">
-        Your information is used only to prepare and respond to this enquiry.
-      </p>
+      <p className="form-note">{copy.note}</p>
     </form>
   );
 }

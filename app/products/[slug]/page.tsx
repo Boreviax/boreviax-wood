@@ -28,6 +28,14 @@ export async function generateMetadata({
       ? `${product.name} — ${product.fullName}`
       : product.name,
     description: product.short,
+    alternates: {
+      canonical: `/products/${slug}`,
+      languages: {
+        en: `/products/${slug}`,
+        "ms-MY": `/ms/products/${slug}`,
+        ar: `/ar/products/${slug}`,
+      },
+    },
     openGraph: {
       title: product.fullName
         ? `${product.name} — ${product.fullName}`

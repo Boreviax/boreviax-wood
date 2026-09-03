@@ -1,16 +1,23 @@
 import Link from "next/link";
 import type { Product } from "../data/products";
+import { commonCopy, localizePath, type Locale } from "../i18n/config";
 
-export function ProductCard({ product }: { product: Product }) {
+export function ProductCard({
+  product,
+  locale = "en",
+}: {
+  product: Product;
+  locale?: Locale;
+}) {
   return (
     <Link
       className="product-card"
-      href={`/products/${product.slug}`}
+      href={localizePath(`/products/${product.slug}`, locale)}
       data-reveal
     >
       <div className="product-card-image">
         <img src={product.hero} alt={product.name} loading="lazy" />
-        <span>Explore</span>
+        <span>{commonCopy[locale].explore}</span>
       </div>
       <div className="product-card-copy">
         <p>{product.category}</p>

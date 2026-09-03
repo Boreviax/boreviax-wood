@@ -12,6 +12,14 @@ export const metadata: Metadata = {
   },
   description:
     "International supply and specification support for plywood, MDF, particle board, FOSB, WPC and wooden slat acoustic panels.",
+  alternates: {
+    canonical: "/",
+    languages: {
+      en: "/",
+      "ms-MY": "/ms",
+      ar: "/ar",
+    },
+  },
   openGraph: {
     title: "Boreviax Panels",
     description:

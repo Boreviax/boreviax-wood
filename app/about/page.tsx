@@ -5,6 +5,10 @@ export const metadata: Metadata = {
   title: "About",
   description:
     "Learn how Boreviax coordinates panel specifications, production sources, quality follow-up, export and after-sales support.",
+  alternates: {
+    canonical: "/about",
+    languages: { en: "/about", "ms-MY": "/ms/about", ar: "/ar/about" },
+  },
 };
 
 export default function AboutPage() {
