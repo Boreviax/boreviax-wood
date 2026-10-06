@@ -1,0 +1,1184 @@
+[
+  {
+    "slug": "flexible-plywood",
+    "name": "Papan Lapis Fleksibel",
+    "category": "Penyelesaian papan lapis & melengkung",
+    "short": "Substrat papan lapis ringan yang direka untuk membentuk lengkungan kemas dan terkawal tanpa potongan kerf.",
+    "description": "Lapisan venir nipis disusun mengikut arah ira terkawal supaya kepingan dapat membentuk lengkungan kemas tanpa potongan kerf berulang. Pembeli terlebih dahulu menetapkan arah lenturan, jejari siap dan sistem permukaan; kami kemudian memadankan ketebalan, orientasi dan binaan sampel sebelum pengeluaran besar-besaran.",
+    "procurementFocus": "Papan Lapis Fleksibel mengurangkan kerja dan garisan sambungan pada komponen melengkung, tetapi hanya apabila arah lenturan, jejari minimum, kaedah pemasangan dan lamina akhir ditetapkan bersama. Orientasi yang salah atau permukaan yang belum diuji boleh menyebabkan keretakan, lantunan balik dan kerja semula di tapak.",
+    "hero": "/assets/flexible-hero.webp",
+    "detailImage": "/assets/flexible-stock.webp",
+    "specs": [
+      {
+        "label": "Rujukan ketumpatan pembekal",
+        "value": "580–600 kg/m³"
+      },
+      {
+        "label": "Rujukan kelembapan",
+        "value": "6–8%"
+      },
+      {
+        "label": "Format biasa",
+        "value": "4 × 8 kaki / 4 × 9 kaki"
+      },
+      {
+        "label": "Kelas penggunaan",
+        "value": "Dalaman, bukan struktur"
+      }
+    ],
+    "features": [
+      "Bersih, lengkung berterusan",
+      "Berat panel rendah",
+      "Konfigurasi ira memanjang dan ira melintang",
+      "Serasi dengan venir atau lamina selepas terbentuk"
+    ],
+    "constructionTitle": "Dari arah venir ke lengkung siap.",
+    "constructionIntro": "Kepingan hanyalah satu bahagian daripada pemasangan melengkung. Jejari, arah ira, pelekat, jarak sokongan dan kemasan hiasan menentukan sama ada komponen siap kekal licin dan stabil.",
+    "construction": [
+      {
+        "label": "01",
+        "title": "Susunan lapisan mengikut arah lenturan",
+        "copy": "Venir nipis disusun supaya kebanyakan kelenturan berlaku dalam satu arah yang ditentukan. Oleh itu, panel ira memanjang dan ira melintang tidak boleh ditukar ganti.",
+        "image": "/assets/flexible-roll-test.webp",
+        "imageAlt": "Papan Lapis Fleksibel digulung menjadi silinder rapat semasa ujian lenturan",
+        "imageCaption": "Ujian gulung menunjukkan kesinambungan arah lenturan dan permukaan pada pembinaan panel sebenar."
+      },
+      {
+        "label": "02",
+        "title": "Ketebalan dipadankan dengan jejari",
+        "copy": "Panel lebih nipis boleh membentuk lengkungan lebih ketat; panel lebih tebal memerlukan jejari lebih besar atau daya pembentukan tambahan. Jejari ditetapkan perlu diuji pada binaan pengeluaran sebenar.",
+        "image": "/assets/flexible-radius-check.webp",
+        "imageAlt": "Papan Lapis Fleksibel bengkok jejari diukur",
+        "imageCaption": "Ukur jejari pada ketebalan, arah ira dan binaan sampel tepat yang ditawarkan."
+      },
+      {
+        "label": "03",
+        "title": "Pembentukan kering dan kelulusan sampel",
+        "copy": "Sampel terbentuk pada jig yang dimaksudkan untuk memeriksa retakan, lantunan balik, kualiti muka dan pemulihan dimensi sebelum tempahan pengeluaran dikeluarkan.",
+        "image": "/assets/flexible-hand-forming.webp",
+        "imageAlt": "Pengendali secara manual membentuk sampel Papan Lapis Fleksibel",
+        "imageCaption": "Pembentukan manual adalah pemeriksaan awal; ujian yang diluluskan masih harus menggunakan jig dan kaedah pemasangan yang dimaksudkan."
+      },
+      {
+        "label": "04",
+        "title": "Kemasan selepas pembentukan",
+        "copy": "Venir, venir berlapik kertas atau lamina biasanya dipasang selepas substrat dikekalkan dalam bentuknya. Pilihan pelekat dan bahan sokongan mesti sesuai dengan lengkungan serta persekitaran penggunaan.",
+        "image": "/assets/flexible-cylinder-demo.webp",
+        "imageAlt": "Papan Lapis Fleksibel terbentuk menjadi silinder lebar penuh yang besar",
+        "imageCaption": "Sampel terbentuk selebar penuh menunjukkan sambungan, kecacatan permukaan dan lantunan balik sebelum kemasan."
+      }
+    ],
+    "applications": [
+      "Dinding ciri melengkung",
+      "Pelapisan tiang",
+      "Meja penerimaan",
+      "Hujung kabinet dan gerbang",
+      "Bentuk perabot khusus"
+    ],
+    "referenceTitle": "Jejari lenturan minimum — mengikut arah ira",
+    "referenceItems": [
+      "Panel 3 mm: jejari 150 mm",
+      "Panel 5 mm: jejari 220–250 mm",
+      "Panel 6 mm: jejari 300 mm",
+      "Panel 8 mm: jejari 400 mm",
+      "Panel 9 mm: jejari 450 mm"
+    ],
+    "buyerChecklist": [
+      "Jejari dalam atau luar, serta jejari siap yang paling ketat",
+      "Arah lenturan ira memanjang atau ira melintang",
+      "Ketebalan dan sokongan komponen siap atau reka bentuk jig",
+      "Urutan permukaan hiasan, pelekat dan laminasi",
+      "Kecacatan muka yang dibenarkan, rongga teras dan toleransi ketebalan",
+      "Sampel terbentuk yang diluluskan sebelum pengeluaran besar-besaran"
+    ],
+    "note": "Pembinaan arah lenturan, muka dan kemasan mempengaruhi jejari yang boleh dicapai. Sahkan pembinaan sampel yang tepat sebelum pengeluaran."
+  },
+  {
+    "slug": "birch-plywood",
+    "name": "Papan Lapis Birch",
+    "category": "Papan lapis & kerja kayu",
+    "short": "Venir birch berlamina silang menyediakan tepi bersih, pemesinan stabil dan prestasi pemasangan yang boleh dipercayai.",
+    "description": "Lapisan venir yang padat dan seragam menghasilkan panel tegar serta stabil dari segi dimensi. Papan Lapis Birch boleh dimesin dengan kemas, memegang pengikat dengan baik dan membolehkan tepi berlapis ditampilkan sebagai sebahagian daripada reka bentuk siap.",
+    "hero": "/assets/birch-hero.webp",
+    "detailImage": "/assets/birch-structure-diagram.webp",
+    "specs": [
+      {
+        "label": "Ketebalan",
+        "value": "3-30 mm"
+      },
+      {
+        "label": "Rujukan ketumpatan",
+        "value": "Kira-kira 680 kg/m³"
+      },
+      {
+        "label": "Rujukan kelembapan",
+        "value": "6–8%"
+      },
+      {
+        "label": "Format biasa",
+        "value": "1220 × 2440 / 2745 mm"
+      },
+      {
+        "label": "Rujukan gred",
+        "value": "E0, CARB P2, ENF"
+      }
+    ],
+    "features": [
+      "Nisbah kekuatan kepada berat yang tinggi",
+      "Tepi berlapis yang bersih dan boleh digunakan",
+      "Pegangan skru dan kebolehmesinan yang baik",
+      "Pembinaan berlamina silang yang stabil"
+    ],
+    "constructionTitle": "Periksa struktur pada bahagian yang benar-benar penting.",
+    "constructionIntro": "Papan Lapis Birch perlu dinilai sebagai sistem panel yang boleh dihasilkan semula: susunan venir, muka seluruh kepingan, konsistensi kelompok dan hasil pemesinan masing-masing memerlukan rujukan kelulusan tersendiri.",
+    "construction": [
+      {
+        "label": "01",
+        "title": "Pembinaan berlamina silang venir",
+        "copy": "Arah venir yang berselang-seli mengagihkan beban dan mengehadkan pergerakan. Sahkan sama ada tempahan menggunakan teras birch penuh atau teras kombinasi, kemudian tetapkan bilangan lapisan, jurang dan pertindihan yang dibenarkan serta kualiti garisan ikatan.",
+        "image": "/assets/birch-supplied-edge-stacks.webp",
+        "imageAlt": "Tepi Papan Lapis Birch bertindan menunjukkan lapisan venir bersilang yang berulang",
+        "imageCaption": "Bukti tepi menjadikan bilangan lapisan, pengulangan venir dan kecacatan teras yang kelihatan lebih mudah dibandingkan merentasi helaian."
+      },
+      {
+        "label": "02",
+        "title": "Gred muka merentasi kepingan penuh",
+        "copy": "Sampel kecil tidak boleh menunjukkan julat warna, tompok, pembaikan atau kesinambungan ira merentas kepingan pengeluaran. Setuju dengan muka dan gred belakang bersama-sama dengan jangkaan permukaan yang kelihatan terakhir.",
+        "image": "/assets/birch-face-inspection-1.webp",
+        "imageAlt": "Kepingan penuh Papan Lapis Birch sedang diperiksa di atas meja pengeluaran",
+        "imageCaption": "Pemeriksaan kepingan penuh mendedahkan variasi muka yang boleh disembunyikan oleh imej produk yang dipotong."
+      },
+      {
+        "label": "03",
+        "title": "Ketekalan kelompok pengeluaran dan tepi",
+        "copy": "Lembaran berulang harus memegang susunan lapisan yang sama, julat kelembapan dan toleransi ketebalan. Pemeriksaan tempat kerja membantu mendedahkan kiraan lapisan yang hanyut, tepi yang tidak rata dan rongga teras terpencil sebelum pemesinan bermula.",
+        "image": "/assets/birch-stacked-plies.webp",
+        "imageAlt": "Tindanan padat tepi Papan Lapis Birch disediakan untuk perbandingan kelompok pengeluaran",
+        "imageCaption": "Bandingkan beberapa tepi daripada kelompok pengeluaran dan bukannya meluluskan satu sampel yang luar biasa bersih."
+      },
+      {
+        "label": "04",
+        "title": "Kelulusan pemesinan dan kemasan",
+        "copy": "Pemotongan penghala CNC, tepi terdedah, pegangan skru dan salutan boleh mendedahkan kecacatan yang tidak jelas pada papan mentah. Luluskan sampel komponen siap atau sampel bermesin sebelum pengeluaran besar-besaran.",
+        "image": "/assets/birch-finished-panels.webp",
+        "imageAlt": "Panel siap Papan Lapis Birch dengan muka bersih dan tepi berlapis terdedah",
+        "imageCaption": "Luluskan muka, tepi terdedah dan hasil pemesinan sebagai satu rujukan komersial."
+      }
+    ],
+    "applications": [
+      "Sistem perabot dan laci",
+      "Rak dan kerja kayu beban tinggi",
+      "Komponen CNC-dipotong dengan penghala",
+      "Kerja kemasan dalaman",
+      "Pembungkusan perlindungan"
+    ],
+    "buyerChecklist": [
+      "Teras birch penuh atau teras kombinasi serta bilangan lapisan yang diperlukan",
+      "Gred muka dan belakang, peraturan tampalan serta jangkaan tepi yang kelihatan",
+      "Kelas ikatan, kelas pelepasan dan bukti bagi pasaran destinasi",
+      "Rongga teras dan pertindihan yang dibenarkan serta toleransi ketebalan",
+      "Sampel pemesinan, pegangan skru dan kemasan permukaan"
+    ],
+    "gallery": [
+      {
+        "src": "/assets/birch-production-stack.webp",
+        "alt": "Panel Papan Lapis Birch bersaiz penuh disusun semasa pengeluaran",
+        "caption": "Bukti timbunan pengeluaran menyokong pemeriksaan ke atas penjajaran tepi, keadaan kepingan dan konsistensi kelompok pengeluaran."
+      },
+      {
+        "src": "/assets/birch-face-inspection-2.webp",
+        "alt": "Kepingan besar Papan Lapis Birch dibentangkan untuk pemeriksaan muka",
+        "caption": "Pemeriksaan kepingan penuh mendedahkan kesinambungan muka yang tidak dapat ditunjukkan oleh sampel tangan kecil."
+      }
+    ],
+    "galleryLayout": "grid",
+    "galleryEyebrow": "Rujukan birch yang disediakan",
+    "galleryTitle": "Periksa muka, tepi dan kelompok—bukan satu imej utama sahaja.",
+    "galleryIntro": "Dua pandangan tambahan ini melengkapkan bukti pengeluaran dan pemeriksaan muka penuh. Imej tepi, binaan dan panel siap diletakkan bersebelahan dengan perkara teknikal yang diterangkannya.",
+    "note": "Nyatakan teras birch penuh atau kombi, bilangan lapisan, gred muka, kelas ikatan, rongga teras yang dibenarkan dan toleransi ketebalan dalam RFQ."
+  },
+  {
+    "slug": "duraply",
+    "name": "Duraply",
+    "fullName": "Papan Lapis Tahan Lama",
+    "category": "Pangkalan papan lapis & laminasi",
+    "short": "Asas papan lapis licin dan keras untuk laminasi hiasan yang menuntut ketepatan kemasan.",
+    "description": "Duraply menggabungkan teras papan lapis eukaliptus dengan lapisan permukaan partikel kayu pain New Zealand berketumpatan tinggi yang seimbang. Binaan hibrid ini ditentukur dan diampelas dengan tepat untuk menghasilkan asas keras serta seragam bagi kemasan cetakan timbul dalam, PET cermin, UV dan kertas hiasan pada barisan pengeluaran perabot berulang.",
+    "procurementFocus": "Duraply direka untuk pembeli yang memerlukan prestasi pemasangan papan lapis tanpa menerima asas laminasi yang tidak sekata. Nilainya ialah kecacatan permukaan yang lebih rendah, proses penekanan yang lebih boleh diramal dan kurang henti barisan akibat variasi ketebalan atau bayangan tekstur venir.",
+    "hero": "/assets/duraply-product-edge-2.webp",
+    "detailImage": "/assets/duraply-standing-sample.webp",
+    "specs": [
+      {
+        "label": "Ketebalan",
+        "value": "9-25 mm"
+      },
+      {
+        "label": "Rujukan teras ketumpatan",
+        "value": "Kira-kira 680 kg/m³"
+      },
+      {
+        "label": "Ketumpatan lapisan permukaan",
+        "value": "980 kg/m³"
+      },
+      {
+        "label": "Toleransi empat penjuru",
+        "value": "Dalam 0.1 mm"
+      },
+      {
+        "label": "Rujukan kelembapan",
+        "value": "6–8%"
+      },
+      {
+        "label": "Format biasa",
+        "value": "1220 × 2440 / 2800 mm"
+      },
+      {
+        "label": "Rujukan gred",
+        "value": "E0, CARB P2, ENF, F★★★★"
+      }
+    ],
+    "features": [
+      "Permukaan licin dan keras",
+      "Pangkalan stabil untuk cetakan timbul dalam",
+      "Sesuai untuk kemasan PET cermin dan UV",
+      "Kadar kelayakan 99.7% yang dilaporkan pembekal"
+    ],
+    "constructionTitle": "Teras papan lapis dengan muka kemasan yang direka khusus.",
+    "constructionIntro": "Struktur ini membahagikan dua fungsi: teras papan lapis menanggung beban panel dan pemasangan, manakala lapisan permukaan padat yang seimbang menghasilkan platform kemasan yang konsisten.",
+    "construction": [
+      {
+        "label": "Teras",
+        "title": "Badan papan lapis eukaliptus",
+        "copy": "Venir eukaliptus berlamina silang memberikan ketebalan utama panel, asas pemasangan dan pengagihan beban. Kelembapan venir serta keseimbangan susunan lapisan mempengaruhi kerataan.",
+        "image": "/assets/duraply-closeup-stack-1.webp",
+        "imageAlt": "Pandangan dekat timbunan Duraply menunjukkan teras papan lapis di bawah lapisan permukaan padat",
+        "imageCaption": "Badan venir menjalankan tugas teras; jurang, pertindihan dan kelembapan kekal pemeriksaan kritikal tempahan."
+      },
+      {
+        "label": "Muka",
+        "title": "Lapisan permukaan 980 kg/m³",
+        "copy": "Lapisan partikel kayu pain New Zealand berketumpatan tinggi digunakan pada kedua-dua muka sebagai binaan seimbang, membantu menutup tekstur venir dan menghasilkan permukaan kemasan yang lebih keras.",
+        "image": "/assets/duraply-closeup-stack-2.webp",
+        "imageAlt": "Sampel Duraply menunjukkan lapisan permukaan padat yang seimbang pada kedua-dua muka",
+        "imageCaption": "Kedua-dua muka menggunakan lapisan permukaan yang direka bentuk supaya asas kemasan kekal seimbang."
+      },
+      {
+        "label": "Penentukuran",
+        "title": "Pengampelasan tepat",
+        "copy": "Papan diampelas untuk mengawal ketebalan di seluruh kepingan. Rujukan pembekal ialah toleransi empat penjuru dalam 0.1 mm, tertakluk pada pengesahan tempahan.",
+        "image": "/assets/duraply-product-edge-1.webp",
+        "imageAlt": "Pandangan dekat tepi Duraply menunjukkan muka ditentukur dan teras papan lapis",
+        "imageCaption": "Ukur papan siap pada perkara yang dipersetujui; toleransi yang dipetik mesti sepadan dengan susunan sebenar."
+      },
+      {
+        "label": "Kemasan",
+        "title": "Padan dengan barisan mesin tekan",
+        "copy": "PET cermin, UV, cetakan timbul dalam dan kertas hiasan masing-masing memerlukan ujian sampel menggunakan pelekat, suhu, tekanan serta penyediaan permukaan sebenar.",
+        "image": "/assets/duraply-routed-profile.webp",
+        "imageAlt": "Sampel Duraply dipotong dengan penghala ke saluran bulat berulang",
+        "imageCaption": "Semakan sampel bermesin sama ada permukaan dan teras kekal bersih melalui proses pembeli."
+      }
+    ],
+    "structureSpotlight": {
+      "image": "/assets/duraply-structure-supplied.webp",
+      "imageAlt": "Struktur Duraply yang diterokai mengenal pasti lapisan super-flat pain di atas dan di bawah teras papan lapis eukaliptus penuh",
+      "eyebrow": "Analisis struktur Duraply",
+      "title": "Dua lapisan permukaan. Satu teras papan lapis. Fungsi yang berbeza.",
+      "intro": "Duraply ialah panel hibrid, bukan papan lapis bermuka biasa. Permukaan partikel kayu pain yang ditentukur direka untuk kemasan konsisten, manakala teras eukaliptus berlamina silang menyediakan badan papan lapis, asas pemasangan dan pengagihan beban.",
+      "layers": [
+        {
+          "label": "01",
+          "title": "Partikel kayu pain berketumpatan tinggi",
+          "copy": "Partikel kayu pain New Zealand yang halus membentuk lapisan luar yang licin dan keras. Rujukan pembekal ialah kira-kira 980 kg/m³, lalu menghasilkan asas yang lebih seragam untuk PET, UV, kertas hiasan dan cetakan timbul dalam berbanding muka venir terdedah."
+        },
+        {
+          "label": "02",
+          "title": "Seimbang pada kedua-dua muka",
+          "copy": "Lapisan partikel digunakan pada kedua-dua belah, bukan pada satu muka sahaja. Binaan seimbang ini membantu mengawal tekanan akibat proses menekan, kerataan dan konsistensi permukaan; kedua-dua muka masih perlu menggunakan sistem kemasan yang serasi."
+        },
+        {
+          "label": "03",
+          "title": "Teras eukaliptus berlamina silang",
+          "copy": "Susunan silang venir eukaliptus membentuk badan utama panel. Teras memberikan ketebalan, kekuatan pemasangan dan pengagihan beban, manakala kelembapan venir, keseimbangan susunan, rongga dan pertindihan kekal sebagai semakan kritikal pesanan."
+        },
+        {
+          "label": "04",
+          "title": "Ditentukur dan diampelas dengan tepat",
+          "copy": "Selepas proses menekan, muka diampelas untuk mengawal ketebalan dan menghasilkan asas laminasi yang sekata. Rujukan pembekal ialah toleransi empat penjuru dalam 0.1 mm, tertakluk pada pengesahan tempahan sebenar."
+        }
+      ],
+      "buyerValue": [
+        "Mengurangkan bayangan tekstur venir di bawah kemasan berkilat tinggi",
+        "Sapuan gam dan sentuhan pada barisan mesin tekan yang lebih mudah diramal",
+        "Pemindahan corak cetakan timbul dalam yang lebih tajam dan boleh diulang",
+        "Mengurangkan risiko kerja semula permukaan akibat muka papan lapis yang tidak sekata"
+      ],
+      "note": "Ilustrasi struktur yang dibekalkan menerangkan susunan lapisan, tetapi bukan lukisan pembuatan berskala. Sahkan ketebalan sebenar lapisan permukaan, susunan venir eukaliptus, toleransi dan percubaan kemasan berdasarkan sampel tempahan yang diluluskan."
+    },
+    "variantDetails": [
+      {
+        "name": "Asas laminasi PET cermin",
+        "positioning": "Untuk permukaan berkilat tinggi di mana kecacatan substrat kecil kekal kelihatan.",
+        "construction": "Muka yang padat dan ditentukur mengurangkan bayangan tekstur venir serta menyediakan permukaan ikatan yang lebih seragam berbanding muka papan lapis konvensional tanpa lapisan permukaan.",
+        "bestFor": [
+          "Muka kabinet PET cermin",
+          "Muka almari berkilat tinggi",
+          "Pengeluaran berulang pada barisan mesin tekan"
+        ],
+        "buyerChecks": [
+          "Kualiti pengampelasan permukaan",
+          "Keserasian pelekat",
+          "Percubaan barisan mesin tekan",
+          "Pengendalian filem pelindung"
+        ]
+      },
+      {
+        "name": "Asas cetakan timbul dalam",
+        "positioning": "Untuk tekstur ditekan yang menuntut muka yang keras dan konsisten.",
+        "construction": "Ketumpatan lapisan permukaan yang tinggi menyokong pemindahan corak yang lebih tajam, manakala badan papan lapis menyediakan teras panel yang kukuh.",
+        "bestFor": [
+          "Panel perabot bercetak timbul",
+          "Depan pintu hiasan",
+          "Panel dinding bertekstur"
+        ],
+        "buyerChecks": [
+          "Kedalaman cetakan timbul",
+          "Ketumpatan permukaan",
+          "Suhu dan tekanan mesin tekan",
+          "Kebolehulangan corak"
+        ]
+      },
+      {
+        "name": "Asas panel UV dan bersalut",
+        "positioning": "Untuk permukaan bersalut licin dan kemasan industri terkawal.",
+        "construction": "Muka yang ditentukur menyediakan asas yang boleh diramal untuk sistem primer, salutan atau pengawetan UV selepas pengampelasan dan penyediaan permukaan yang diperlukan.",
+        "bestFor": [
+          "Panel bersalut UV",
+          "Komponen yang dilukis",
+          "Panel dalaman hiasan"
+        ],
+        "buyerChecks": [
+          "Percubaan lekatan salutan",
+          "Kelembapan permukaan",
+          "Urutan pengampelasan",
+          "Toleransi siap"
+        ]
+      },
+      {
+        "name": "Asas kertas hiasan",
+        "positioning": "Untuk panel perabot yang memerlukan prestasi papan lapis di bawah muka hiasan yang seragam.",
+        "construction": "Muka padat yang seimbang menyediakan asas laminasi kertas yang konsisten pada kedua-dua belah, mengurangkan variasi visual dan membantu mengekalkan kerataan panel.",
+        "bestFor": [
+          "Badan kabinet",
+          "Pintu setinggi penuh",
+          "Perabot kontrak"
+        ],
+        "buyerChecks": [
+          "Baki dua sisi",
+          "Sistem kertas dan resin",
+          "Ketebalan siap",
+          "Rawatan tepi"
+        ]
+      }
+    ],
+    "applications": [
+      "Kabinet dan panel pintu setinggi penuh",
+      "Laminasi PET dan kertas hiasan",
+      "Pengeluaran perabot",
+      "Substrat lantai",
+      "Sekolah, hospital dan taska"
+    ],
+    "buyerChecklist": [
+      "Laluan kemasan permukaan: PET, UV, cetakan timbul, cat atau kertas hiasan",
+      "Sasar ketebalan siap dan toleransi empat penjuru",
+      "Susunan lapisan teras papan lapis, kualiti venir dan rongga teras yang dibenarkan",
+      "Ketumpatan lapisan permukaan dan kualiti pengampelasan",
+      "Kelas pelepasan dan laporan semasa yang sepadan dengan tempahan",
+      "Percubaan menggunakan tetapan pelekat dan barisan mesin tekan sebenar pembeli",
+      "Kriteria pemeriksaan sampel emas dan kelompok pengeluaran"
+    ],
+    "gallery": [
+      {
+        "src": "/assets/duraply-structure-clean.webp",
+        "alt": "Papak Duraply terpasang menunjukkan muka partikel padat yang seimbang dan teras papan lapis eukaliptus",
+        "caption": "Rujukan pembinaan yang berasingan: muka kemasan seimbang nipis mengelilingi teras papan lapis eukaliptus yang mengangkut muatan."
+      },
+      {
+        "src": "/assets/duraply-stacked-sample.webp",
+        "alt": "Susunan kompak sampel Duraply pada latar belakang neutral",
+        "caption": "Rujukan timbunan sampel untuk ketebalan, keseimbangan kerataan dan dua-muka."
+      }
+    ],
+    "galleryLayout": "grid",
+    "galleryEyebrow": "Set bahan Duraply yang betul",
+    "galleryTitle": "Lihat pembinaan hibrid daripada rajah kepada sampel bermesin.",
+    "galleryIntro": "Dua pandangan tambahan ini melengkapkan pemeriksaan struktur yang dipasang dan timbunan sampel. Imej teras, muka, penentukuran dan pemesinan kini terletak di sebelah titik yang mereka jelaskan.",
+    "note": "Kemasan permukaan, sistem pelekat, kelas pelepasan dan toleransi mesti disahkan berdasarkan sumber pengeluaran tepat serta spesifikasi pesanan."
+  },
+  {
+    "slug": "functional-plywood",
+    "name": "Papan Lapis Pelbagai Fungsi",
+    "category": "Prestasi papan lapis",
+    "short": "Prestasi bersepadu papan lapis menggabungkan rintangan kelembapan, prestasi rencat api dan rintangan anai-anai dalam panel yang sama.",
+    "description": "Papan Lapis Pelbagai Fungsi menggunakan susunan lapisan venir, sistem pelekat dan rawatan berfungsi yang diselaraskan supaya panel yang dipesan yang sama menyediakan prestasi tahan lembapan, rencat api dan tahan anai-anai bersama-sama. Ia juga direka bentuk di sekitar pelepasan rendah dan keperluan anti-deformasi, dengan sijil ujian yang berkaitan tersedia untuk semakan pembeli.",
+    "procurementFocus": "Ini bukan tiga peningkatan pilihan: rintangan kelembapan, prestasi rencat api dan rintangan anai-anai disepadukan dalam produk Papan Lapis Pelbagai Fungsi yang sama. Pembeli masih perlu mengesahkan klasifikasi tepat, piawaian ujian, ketebalan dan skop pengeluaran yang diliputi oleh sijil yang dibekalkan.",
+    "hero": "/assets/functional-supplied-finished.webp",
+    "detailImage": "/assets/functional-overview-infographic.webp",
+    "detailCaption": "Gambaran keseluruhan prestasi bersepadu. Sijil ujian berkaitan boleh disediakan; pengelasan dan liputan tepat adalah berdasarkan laporan semasa bagi ketebalan, kemasan dan sumber pengeluaran yang dipesan.",
+    "specs": [
+      {
+        "label": "Rujukan pembekal MOR",
+        "value": "> 30 MPa"
+      },
+      {
+        "label": "Rujukan ketumpatan",
+        "value": "580–600 kg/m³"
+      },
+      {
+        "label": "Rujukan kelembapan",
+        "value": "6–8%"
+      },
+      {
+        "label": "Format biasa",
+        "value": "4 × 8 kaki / 4 × 9 kaki"
+      },
+      {
+        "label": "Rujukan gred",
+        "value": "E0, CARB P2"
+      }
+    ],
+    "features": [
+      "Prestasi tahan lembapan bersepadu",
+      "Prestasi rencat api bersepadu",
+      "Rawatan tahan anai-anai bersepadu",
+      "Pembinaan pelepasan rendah",
+      "Susunan lapisan seimbang untuk kestabilan dimensi yang lebih baik"
+    ],
+    "constructionTitle": "Lima fungsi direka bentuk menjadi satu panel.",
+    "constructionIntro": "Prestasi tahan lembapan, rencat api dan tahan anai-anai dibina dalam produk Papan Lapis Pelbagai Fungsi yang sama, bukannya dipilih sebagai pilihan berasingan. Oleh itu, susunan venir, pelekat, rawatan dan kawalan proses mesti berfungsi sebagai satu sistem yang disahkan.",
+    "construction": [
+      {
+        "label": "01",
+        "title": "Ringkasan prestasi bersepadu",
+        "copy": "Panel yang dipesan sama direka untuk menangani kelembapan, menambah baik keperluan tindak balas terhadap kebakaran dan pendedahan anai-anai bersama-sama, sambil menyokong sasaran pelepasan rendah dan anti-deformasi.",
+        "image": "/assets/functional-performance-configurations.webp",
+        "imageAlt": "Visual Papan Lapis Pelbagai Fungsi menunjukkan prestasi tahan lembapan, rencat api dan tahan anai-anai bersepadu",
+        "imageCaption": "Rintangan kelembapan, prestasi rencat api dan rintangan anai-anai disepadukan dalam produk yang sama; klasifikasi tepat tertakluk pada sijil sepadan."
+      },
+      {
+        "label": "02",
+        "title": "Koordinatkan pembinaan",
+        "copy": "Susunan lapisan venir yang seimbang, sistem pelekat dan rawatan berfungsi diselaraskan sebagai satu binaan. Kelembapan venir terkawal dan keseimbangan kedua-dua muka turut menyokong kestabilan dimensi.",
+        "image": "/assets/functional-supplied-stack.webp",
+        "imageAlt": "Panel Papan Lapis Pelbagai Fungsi bertindan menunjukkan susunan lapisan venir berulang",
+        "imageCaption": "Penimbunan pengeluaran membantu membandingkan keadaan susunan lapisan, tepi dan konsistensi kelompok pengeluaran."
+      },
+      {
+        "label": "03",
+        "title": "Padankan sijil",
+        "copy": "Sijil ujian yang berkaitan boleh dibekalkan untuk semakan pembeli. Piawaian, pengelasan dan skop mereka harus sepadan dengan sumber pengeluaran, ketebalan panel dan kemasan yang dibekalkan kepada projek.",
+        "image": "/assets/functional-product.webp",
+        "imageAlt": "Panel siap papan lapis yang ditunjukkan dalam tetapan penggunaan dalaman",
+        "imageCaption": "Bukti perlu sepadan dengan binaan siap—bukan hanya panel teras yang belum dirawat."
+      },
+      {
+        "label": "04",
+        "title": "Kawal susunan",
+        "copy": "Sampel yang diluluskan, rekod kelompok pengeluaran, pemeriksaan pengeluaran dan keadaan pembungkusan mengurangkan jurang antara panel yang diuji dan panel yang dihantar.",
+        "image": "/assets/functional-supplied-machined.webp",
+        "imageAlt": "Komponen Papan Lapis Pelbagai Fungsi mesin menunjukkan tepi bulat berulang",
+        "imageCaption": "Sampel bermesin mendedahkan rongga dalaman, integriti tepi dan kebolehulangan sebelum pengeluaran besar-besaran."
+      }
+    ],
+    "variantEyebrow": "Profil prestasi bersepadu",
+    "variantTitle": "Lima fungsi dalam satu panel yang disahkan.",
+    "variantIntro": "Fungsi di bawah membentuk satu profil produk, bukan lima gred berasingan. Prestasi tahan lembapan, rencat api dan tahan anai-anai dibekalkan bersama; klasifikasi sijil kekal khusus kepada laporan.",
+    "variantDetails": [
+      {
+        "name": "Prestasi pelepasan rendah",
+        "positioning": "Sebahagian daripada profil panel bersepadu untuk aplikasi perabot dan dalaman.",
+        "construction": "Sistem resin, kelembapan dan proses menekan venir dikawal untuk menyokong keperluan pelepasan yang dinyatakan sambil mengekalkan prestasi fungsi gabungan.",
+        "bestFor": [
+          "Sekolah dan taman asuhan",
+          "Ruang dalaman penjagaan kesihatan",
+          "Kabinet kediaman"
+        ],
+        "buyerChecks": [
+          "Kaedah ujian yang dinamakan",
+          "Kelas pelepasan yang dinyatakan",
+          "Laporan semasa yang sepadan dengan sumber",
+          "Komponen panel siap"
+        ]
+      },
+      {
+        "name": "Prestasi anti-deformasi",
+        "positioning": "Menyokong pintu tinggi, almari pakaian dan komponen yang memerlukan kawalan terhadap lenturan serta kilasan semasa pemasangan.",
+        "construction": "Susunan lapisan venir yang seimbang, kelembapan venir terkawal, rawatan permukaan simetri dan proses menekan ditentukur bersama untuk meningkatkan kestabilan dimensi.",
+        "bestFor": [
+          "Pintu setinggi kepingan 4 × 9 kaki",
+          "Panel almari pakaian",
+          "Komponen perabot panjang"
+        ],
+        "buyerChecks": [
+          "Orientasi panel",
+          "Toleransi kerataan awal",
+          "Kelembapan semasa pembungkusan",
+          "Baki kemasan dua sisi"
+        ]
+      },
+      {
+        "name": "Prestasi tahan lembapan",
+        "positioning": "Bersepadu ke dalam panel yang sama untuk bahagian dalam lembap dan pendedahan kelembapan sekali-sekala.",
+        "construction": "Sistem ikatan yang diselaraskan dan kualiti venir yang dikawal meningkatkan rintangan kelembapan sambil mengekalkan fungsi rencat api dan tahan anai-anai panel. Muka dan tepi masih memerlukan kemasan dan pengedap yang sesuai.",
+        "bestFor": [
+          "Kabinet di kawasan lembap",
+          "Kerja dalaman hotel dan asrama",
+          "Perabot dapur dan utiliti"
+        ],
+        "buyerChecks": [
+          "Kelas ikatan atau kaedah ujian",
+          "Pengembangan ketebalan",
+          "Pengedap tepi",
+          "Keadaan pendedahan sebenar"
+        ]
+      },
+      {
+        "name": "Prestasi tahan anai-anai",
+        "positioning": "Bersepadu ke dalam panel yang sama untuk pasaran di mana kerosakan anai-anai adalah risiko yang didokumenkan.",
+        "construction": "Rawatan tahan anai-anai dimasukkan ke dalam sistem Papan Lapis Pelbagai Fungsi bersama prestasi tahan lembapan dan rencat apinya.",
+        "bestFor": [
+          "Perabot iklim panas",
+          "Asrama dan penginapan",
+          "Kerja kayu dalaman untuk jangka hayat panjang"
+        ],
+        "buyerChecks": [
+          "Kimia rawatan",
+          "Penahanan atau dos",
+          "Laporan ujian",
+          "Sekatan pasaran destinasi"
+        ]
+      },
+      {
+        "name": "Prestasi rencat api",
+        "positioning": "Bersepadu ke dalam panel yang sama untuk projek yang memerlukan prestasi tindak balas terhadap kebakaran yang lebih baik.",
+        "construction": "Rawatan rencat api membentuk sebahagian daripada pembinaan Papan Lapis Pelbagai Fungsi yang sama dan disahkan bersama dengan ketebalan yang berkaitan dan sistem kemasan.",
+        "bestFor": [
+          "Hotel",
+          "Hospital",
+          "Asrama dan ruang dalaman awam"
+        ],
+        "buyerChecks": [
+          "Piawaian dan pengelasan yang diperlukan",
+          "Ketebalan dan kemasan yang sepadan",
+          "Kesahan laporan",
+          "Keperluan pada peringkat pemasangan"
+        ]
+      }
+    ],
+    "applications": [
+      "Pintu setinggi kepingan 4 × 9 kaki",
+      "Panel kabinet dan almari pakaian",
+      "Ruang dalaman yang lembap",
+      "Hotel, hospital dan asrama",
+      "Projek komersial dengan kriteria ujian yang ditentukan"
+    ],
+    "referenceTitle": "Lima fungsi bersepadu",
+    "referenceItems": [
+      "Pelepasan rendah",
+      "Prestasi anti-deformasi",
+      "Rintangan kelembapan",
+      "Rintangan anai-anai",
+      "Prestasi rencat api"
+    ],
+    "buyerChecklist": [
+      "Persekitaran perkhidmatan yang diperlukan dan aplikasi siap",
+      "Saiz panel, ketebalan, beban, corak pemasangan dan binaan siap",
+      "Standard dan klasifikasi kelembapan, anai-anai dan kebakaran yang diperlukan",
+      "Set sijil sepadan dengan sistem sumber, ketebalan dan permukaan yang tepat",
+      "Kerataan awal serta toleransi kelembapan dan dimensi",
+      "Sampel yang diluluskan dan pelan pemeriksaan khusus tempahan",
+      "Tuntutan bukti dan laluan penggantian dipersetujui sebelum penghantaran"
+    ],
+    "note": "Rintangan kelembapan, prestasi rencat api dan rintangan anai-anai disepadukan dalam produk ini, dan sijil ujian yang berkaitan boleh disediakan. Pengelasan dan liputan yang tepat mengikut laporan semasa; tahan lembapan tidak bermakna kalis air, dan rencat api tidak bermakna kalis api."
+  },
+  {
+    "slug": "mdf",
+    "name": "MDF",
+    "fullName": "Papan Gentian Ketumpatan Sederhana & Tinggi",
+    "category": "Panel gentian",
+    "short": "Teras gentian seragam untuk pemesinan kemas, pengecatan, pemotongan penghala dan laminasi hiasan.",
+    "description": "Gentian kayu yang ditapis dicampur dengan resin, dibentuk sebagai hamparan, ditekan panas dan diampelas dengan tepat menjadi panel licin. Gred yang betul bergantung pada kedalaman pemesinan, ketebalan komponen, kelembapan, keperluan kebakaran, kemasan permukaan dan bukti yang ditetapkan oleh projek.",
+    "procurementFocus": "MDF tidak patut dibeli sebagai satu papan umum. Gred ketumpatan sederhana, ketumpatan tinggi, tahan lembapan dan rencat api menyelesaikan masalah berbeza; menggantikan satu gred dengan gred lain boleh menyebabkan tepi berprofil lemah, bengkak, kecacatan salutan atau kegagalan mematuhi keperluan projek.",
+    "hero": "/assets/mdf-hero.webp",
+    "detailImage": "/assets/mdf-structure-diagram.webp",
+    "specs": [
+      {
+        "label": "Ketebalan",
+        "value": "2.5-30 mm"
+      },
+      {
+        "label": "Rujukan ketumpatan",
+        "value": "660–810 kg/m³"
+      },
+      {
+        "label": "Rujukan kelembapan",
+        "value": "6–8%"
+      },
+      {
+        "label": "Format biasa",
+        "value": "1220 × 2440 / 2745 / 3050 mm"
+      },
+      {
+        "label": "Ketebalan biasa",
+        "value": "8/9/12/15/18/19/25 mm"
+      }
+    ],
+    "variants": [
+      "MDF Ketumpatan Sederhana",
+      "MDF Ketumpatan Tinggi",
+      "MDF Tahan Lembapan",
+      "MDF Rencat Api"
+    ],
+    "features": [
+      "Permukaan licin dan seragam",
+      "Pemotongan penghala dan ukiran yang kemas",
+      "Asas pengecatan dan laminasi yang konsisten",
+      "Pilihan ketumpatan dan prestasi mengikut aplikasi"
+    ],
+    "constructionTitle": "Satu proses papan gentian, empat keputusan pembelian.",
+    "constructionIntro": "Penapisan gentian, pemilihan resin, pembentukan hamparan, kawalan tekanan dan pengampelasan menghasilkan profil ketumpatan serta kualiti permukaan. Prestasi khusus datang daripada formulasi yang diubah dengan sengaja—bukan sekadar warna papan berbeza.",
+    "construction": [
+      {
+        "label": "01",
+        "title": "Penyediaan gentian",
+        "copy": "Kayu diperhalus menjadi gentian yang konsisten. Kualiti gentian dan kawalan pencemaran mempengaruhi kelicinan permukaan, hasil pemesinan dan rupa panel siap."
+      },
+      {
+        "label": "02",
+        "title": "Resin dan bahan tambahan",
+        "copy": "Sistem pengikat dipilih untuk tugas standard, tahan lembapan atau rencat api. Pelepasan dan prestasi khusus mesti didokumenkan untuk resipi yang tepat."
+      },
+      {
+        "label": "03",
+        "title": "Pembentukan hamparan dan penekanan panas",
+        "copy": "Hamparan gentian ditekan di bawah haba dan tekanan terkawal. Profil ketumpatan yang terhasil mempengaruhi kekuatan tepi, kualiti pemotongan penghala dan berat panel."
+      },
+      {
+        "label": "04",
+        "title": "Pengkondisian dan pengampelasan",
+        "copy": "Panel dikondisikan dan diampelas kepada ketebalan sasaran serta kualiti permukaan sebelum pengecatan, salutan venir, laminasi kertas atau pemesinan CNC."
+      }
+    ],
+    "variantDetails": [
+      {
+        "name": "MDF Ketumpatan Sederhana",
+        "positioning": "Pilihan seimbang untuk perabot dalaman umum dan pemesinan berulang.",
+        "construction": "Sistem gentian dan resin terkawal menyediakan teras seragam, muka licin dan tepi yang boleh diramal tanpa penambahan berat atau tambahan khas gred lain.",
+        "image": "/assets/mdf-grade-medium.webp",
+        "imageAlt": "Papak MDF Ketumpatan Sederhana kuning air semulajadi dengan potongan gentian halus seragam tepi",
+        "bestFor": [
+          "Badan kabinet",
+          "Perabot bercat",
+          "Almari pakaian dan rak",
+          "Kerja kemasan dalaman"
+        ],
+        "buyerChecks": [
+          "Purata dan profil ketumpatan",
+          "Toleransi ketebalan",
+          "Ikatan dalaman",
+          "Kelas pelepasan",
+          "Percubaan cat atau lamina"
+        ]
+      },
+      {
+        "name": "MDF Ketumpatan Tinggi",
+        "positioning": "Untuk komponen lebih nipis, tahan lasak atau bermesin dalam yang memerlukan tepi lebih padat.",
+        "construction": "Ketumpatan sasaran yang lebih tinggi dan profil tekanan terkawal meningkatkan kepadatan serta ketajaman tepi. HDF yang sesuai untuk kerja penghala boleh dipilih apabila corak CNC dalam atau perincian acuan yang tajam diperlukan.",
+        "image": "/assets/mdf-grade-high.webp",
+        "imageAlt": "Papak MDF Ketumpatan Tinggi Warm-tan dengan tepi gentian halus yang padat dengan ketat",
+        "bestFor": [
+          "Bahagian yang dipotong dengan penghala CNC",
+          "Panel yang diukir dalam",
+          "Komponen perabot nipis",
+          "Pintu penggunaan tinggi dan komponen paparan"
+        ],
+        "buyerChecks": [
+          "Profil ketumpatan, bukan purata ketumpatan sahaja",
+          "Ujian kedalaman dan alat penghala",
+          "Kemasan tepi",
+          "Berat panel",
+          "Kekuatan komponen siap"
+        ]
+      },
+      {
+        "name": "MDF Tahan Lembapan",
+        "positioning": "Untuk keadaan dalaman lembap dan komponen yang terdedah kepada kelembapan sekali-sekala.",
+        "construction": "Sistem resin dinaik taraf atau diubah suai untuk meningkatkan rintangan terhadap kelembapan dan pengembangan ketebalan. Warna hijau ialah penanda lazim, tetapi bukan bukti prestasi.",
+        "image": "/assets/mdf-grade-moisture-resistant.webp",
+        "imageAlt": "Papak MDF Tahan Lembapan hijau dengan warna memanjang melalui teras gentian halusnya",
+        "bestFor": [
+          "Kabinet dapur dan utiliti",
+          "Perabot bilik mandi di luar zon basah langsung",
+          "Ruang dalaman dalam iklim lembap",
+          "Keadaan tapak sebelum pemasangan"
+        ],
+        "buyerChecks": [
+          "Piawaian tahan lembapan yang diperlukan",
+          "Keputusan pengembangan ketebalan",
+          "Pengedap tepi",
+          "Kemasan permukaan",
+          "Sahkan penggunaan adalah di dalam bangunan—bukan terendam atau basah secara kekal"
+        ]
+      },
+      {
+        "name": "MDF Rencat Api",
+        "positioning": "Untuk dalaman kontrak yang menyatakan prestasi tindak balas terhadap kebakaran yang lebih baik.",
+        "construction": "Penambah rencat api disepadukan ke dalam sistem gentian dan resin. Prestasi yang sah bergantung pada ketebalan yang tepat, ketumpatan, kemasan dan pemasangan yang diuji.",
+        "image": "/assets/mdf-grade-fire-retardant.webp",
+        "imageAlt": "papak MDF Rencat Api merah oren dengan warna memanjang melalui teras gentian halusnya",
+        "bestFor": [
+          "Hotel dan dalaman awam",
+          "Penjagaan kesihatan dan pendidikan yang sesuai",
+          "Sistem dinding dan paparan",
+          "Perabot kontrak khusus"
+        ],
+        "buyerChecks": [
+          "Piawaian yang dinamakan dan pengelasan yang diperlukan",
+          "Laporan yang sepadan dengan ketebalan dan kemasan",
+          "Kesahan laporan dan sumber pengeluaran",
+          "Butiran tepi dan pemasangan",
+          "Rencat api—bukan kalis api"
+        ]
+      }
+    ],
+    "applications": [
+      "Pengeluaran perabot dan kabinet",
+      "Muka yang dipotong dengan penghala dan dicat",
+      "Almari pakaian dan kerja kemasan dalaman",
+      "Panel pintu dan acuan",
+      "Panel dinding dan paparan komersial"
+    ],
+    "buyerChecklist": [
+      "Gred MDF yang tepat dan komponen siap yang dimaksudkan",
+      "Keperluan profil ketumpatan, ikatan dalaman dan pemotongan penghala",
+      "Ketebalan, toleransi, saiz kepingan dan kualiti pengampelasan",
+      "Kaedah ujian kelas pelepasan dan pasaran destinasi",
+      "Laporan kelembapan atau kebakaran sepadan dengan pembinaan yang tepat",
+      "Ujian cat, venir, kertas atau lamina pada muka yang dibekalkan",
+      "Perlindungan pembungkusan daripada kelembapan dan pengenalan kelompok pengeluaran"
+    ],
+    "note": "Sahkan profil ketumpatan, kelas pelepasan, keperluan kelembapan atau kebakaran, kualiti permukaan dan toleransi ketebalan sebelum sebut harga."
+  },
+  {
+    "slug": "particle-board",
+    "name": "Papan Partikel",
+    "category": "Panel asas perabot",
+    "short": "Teras kos efektif dengan ketebalan seragam untuk komponen perabot berlamina dan pengeluaran berulang.",
+    "description": "Partikel kayu terkawal diikat di bawah haba dan tekanan untuk menghasilkan panel rata. Papan Partikel dioptimumkan bagi komponen perabot stabil, laminasi hiasan dan pembuatan bervolume tinggi.",
+    "hero": "/assets/particle-hero.webp",
+    "detailImage": "/assets/particle-cutaway-clean.webp",
+    "specs": [
+      {
+        "label": "Ketebalan",
+        "value": "9-25 mm"
+      },
+      {
+        "label": "Rujukan ketumpatan",
+        "value": "600–750 kg/m³"
+      },
+      {
+        "label": "Rujukan kelembapan",
+        "value": "6–8%"
+      },
+      {
+        "label": "Format biasa",
+        "value": "1220 × 2440 / 2745 / 3050 mm"
+      },
+      {
+        "label": "Rujukan gred",
+        "value": "E0, CARB P2, ENF"
+      }
+    ],
+    "features": [
+      "Teras perabot yang rata dan konsisten",
+      "Cekap untuk pengeluaran bervolume tinggi",
+      "Sesuai untuk melamin dan lamina hiasan",
+      "Pilihan ketumpatan dan gred tahan lembapan"
+    ],
+    "applications": [
+      "Perabot pek rata",
+      "Badan kabinet",
+      "Almari pakaian",
+      "Rak bersokongan",
+      "Panel berlamina hiasan"
+    ],
+    "buyerChecklist": [
+      "Ketumpatan purata dan permukaan untuk komponen siap",
+      "Keperluan ketumpatan tepi dan pegangan skru",
+      "Toleransi ketebalan dan kerataan kepingan",
+      "Gred pelepasan dan kelembapan",
+      "Percubaan menekan melamina, venir atau lamina",
+      "Jarak sokongan dan kaedah pemasangan jalur tepi"
+    ],
+    "note": "Sahkan ketumpatan permukaan dan tepi, pegangan skru, kelas pelepasan, gred tahan lembapan, toleransi ketebalan serta laminasi yang dimaksudkan."
+  },
+  {
+    "slug": "fosb",
+    "name": "FOSB",
+    "fullName": "Papan Jalur Berorientasi Berpermukaan Halus",
+    "category": "Panel jalur berorientasi",
+    "short": "Kekuatan jalur berorientasi dengan lapisan luar lebih licin untuk perabot dan aplikasi sedia kemasan.",
+    "description": "FOSB menggabungkan lapisan jalur berorientasi di bahagian teras dengan lapisan muka yang lebih halus dan licin. Binaan ini menyasarkan kekuatan pemasangan serta prestasi perabot, sambil menyediakan asas yang lebih sesuai untuk kemasan hiasan berbanding OSB konvensional berpermukaan kasar.",
+    "hero": "/assets/fosb-hero.webp",
+    "detailImage": "/assets/fosb-hero.webp",
+    "specs": [
+      {
+        "label": "Rujukan ketebalan",
+        "value": "9-25 mm"
+      },
+      {
+        "label": "Rujukan ketumpatan",
+        "value": "600–750 kg/m³"
+      },
+      {
+        "label": "Rujukan kelembapan",
+        "value": "6–8%"
+      },
+      {
+        "label": "Format biasa",
+        "value": "1220 × 2440 / 2745 / 3050 mm"
+      },
+      {
+        "label": "Rujukan gred",
+        "value": "E0, CARB P2, ENF"
+      }
+    ],
+    "features": [
+      "Teras jalur berorientasi",
+      "Prestasi pemasangan dan keupayaan pegangan skru yang kuat",
+      "Muka lebih licin dan sedia untuk kemasan",
+      "Sesuai untuk PET, venir, UV dan laminasi lain"
+    ],
+    "applications": [
+      "Badan kabinet dan rak",
+      "Bingkai perabot dan almari pakaian",
+      "Panel berlamina hiasan",
+      "Permukaan tempat duduk dan kerja bersepadu",
+      "Aplikasi dinding dalaman"
+    ],
+    "buyerChecklist": [
+      "Binaan FOSB yang tepat dan fungsi struktur atau perabot yang dimaksudkan",
+      "Kelancaran muka dan laluan kemasan",
+      "Keperluan ketumpatan, ikatan dalaman dan keupayaan pegangan skru",
+      "Kelas tahan lembapan dan pelepasan",
+      "Toleransi ketebalan, kualiti tepi dan sampel lamina yang diluluskan"
+    ],
+    "note": "Spesifikasikan pembinaan yang diperlukan, kualiti permukaan, tugas struktur, pelekat, laluan kelas pelepasan dan kemasan."
+  },
+  {
+    "slug": "wpc-products",
+    "name": "Produk WPC",
+    "fullName": "Sistem Komposit Kayu-Plastik",
+    "category": "Produk komposit luar",
+    "short": "Dek luar, dinding, pagar dan sistem profil menggabungkan gentian kayu dengan plastik kitar semula.",
+    "description": "Profil WPC menggabungkan gentian kayu, termoplastik dan bahan tambahan prestasi dalam sistem tersemperit. Keputusan pembelian bukan sekadar warna dan harga: geometri profil, ketebalan dinding, binaan lapisan penutup, jarak sokongan, pengembangan, substruktur dan kelengkapan aksesori menentukan prestasi projek selepas dipasang.",
+    "procurementFocus": "Pesanan WPC boleh gagal apabila hanya papan kelihatan dibeli tanpa sistem di sekelilingnya. Boreviax menyelaraskan profil, padanan warna kelompok, gelegar, klip, pengikat, pedestal, data pemasangan dan pelan penggantian supaya pembeli menerima pakej yang boleh dibina, bukan profil longgar sahaja.",
+    "hero": "/assets/wpc-hero.webp",
+    "detailImage": "/assets/wpc-products.webp",
+    "specs": [
+      {
+        "label": "Bentuk produk",
+        "value": "Profil berongga, berlubang bulat dan pepejal"
+      },
+      {
+        "label": "Pilihan permukaan",
+        "value": "Ira kayu, berus, timbul dan diampelas"
+      },
+      {
+        "label": "Pilihan warna",
+        "value": "Palet khusus projek"
+      },
+      {
+        "label": "Dimensi",
+        "value": "Bergantung kepada profil; pilihan tersuai tersedia"
+      }
+    ],
+    "variants": [
+      "Dek tradisional",
+      "Dek ko-penyemperitan",
+      "Jubin dek DIY",
+      "Panel Dinding Luar",
+      "Tiub persegi WPC",
+      "Sistem pagar WPC",
+      "Klip, gelegar dan pedestal"
+    ],
+    "features": [
+      "Direka untuk aplikasi luaran",
+      "Pilihan tradisional dan ko-penyemperitan berlapis pelindung",
+      "Profil dan aksesori yang diselaraskan",
+      "Pelbagai warna dan rawatan permukaan"
+    ],
+    "constructionTitle": "Profil dan sistem pemasangan ialah satu produk.",
+    "constructionIntro": "Formulasi bahan hanyalah permulaan. Geometri, liputan lapisan penutup, konsistensi penyemperitan, penyejukan, rawatan permukaan dan elaun pemasangan semuanya mempengaruhi kestabilan dimensi serta prestasi penggunaan.",
+    "construction": [
+      {
+        "label": "Campuran",
+        "title": "Campuran bahan mentah terkawal",
+        "copy": "Gentian kayu, termoplastik dan bahan tambahan digabungkan untuk kestabilan proses, warna dan prestasi luaran. Formulasi tepat adalah khusus bagi sumber dan gred.",
+        "image": "/assets/wpc-profile-2.webp",
+        "imageAlt": "Profil dek WPC dipamerkan dalam beberapa warna projek",
+        "imageCaption": "Kelulusan warna mesti kekal terikat dengan formulasi, gred dan lot pengeluaran yang tepat."
+      },
+      {
+        "label": "Bentuk",
+        "title": "Penyemperitan profil",
+        "copy": "Campuran disemperit melalui acuan profil. Ruang berongga, lubang bulat atau keratan pepejal mengimbangi berat, kekakuan, jarak sokongan dan kos.",
+        "image": "/assets/wpc-profile-4.webp",
+        "imageAlt": "Profil dek WPC menunjukkan geometri ruang berongga",
+        "imageCaption": "Pandangan keratan menunjukkan susun atur ruang, ketebalan dinding dan muka yang boleh digunakan sebelum kelulusan."
+      },
+      {
+        "label": "Kemasan",
+        "title": "Sistem permukaan dan lapisan pelindung",
+        "copy": "Profil tradisional boleh diberus, diampelas atau dicetak timbul; gred ko-penyemperitan menambah lapisan pelindung yang liputan serta lekatannya mesti dikawal.",
+        "image": "/assets/wpc-profile-5.webp",
+        "imageAlt": "Pandangan dekat permukaan dek WPC berira kayu kelabu dan hujung profil",
+        "imageCaption": "Semak cetakan timbul permukaan, liputan lapisan pelindung dan geometri teras pada profil yang ditawarkan."
+      },
+      {
+        "label": "Pemasangan",
+        "title": "Aksesori dan jurang yang sepadan",
+        "copy": "Jarak gelegar, klip, pengikat, pengudaraan, saliran dan jurang pengembangan mestilah mengikut profil tepat serta keadaan projek tempatan—bukan satu peraturan WPC sejagat.",
+        "image": "/assets/wpc-profile-1.webp",
+        "imageAlt": "Papan dek WPC berongga yang dipasang sedia untuk pemilihan sistem",
+        "imageCaption": "Kelulusan profil tidak lengkap sehingga jurang gelegar, klip, pengikat dan pergerakan yang sepadan ditakrifkan."
+      }
+    ],
+    "variantDetails": [
+      {
+        "name": "Dek WPC tradisional",
+        "positioning": "Pilihan nilai praktikal untuk teres, laluan pejalan kaki dan projek landskap.",
+        "construction": "Campuran kayu-plastik membentuk keseluruhan profil dan menerima kemasan diberus, diampelas atau dicetak timbul. Pilihan berongga, berlubang bulat dan pepejal mengimbangi jarak sokongan, berat serta bajet.",
+        "bestFor": [
+          "Teres kediaman",
+          "Laluan taman",
+          "Balkoni",
+          "Dek landskap umum"
+        ],
+        "buyerChecks": [
+          "Ketebalan dinding profil",
+          "Berat unit atau ketumpatan",
+          "Jadual jarak sokongan",
+          "Penyerapan air dan perubahan dimensi",
+          "Kawalan warna-lot"
+        ]
+      },
+      {
+        "name": "Dek ko-penyemperitan",
+        "positioning": "Untuk projek yang mengutamakan rintangan noda, pengekalan warna dan permukaan yang lebih dilindungi.",
+        "construction": "Lapisan pelindung disemperit bersama di sekeliling teras WPC. Liputan penuh atau separa, ketebalan lapisan dan lekatan antara teras dengan lapisan pelindung mesti sepadan dengan gred yang ditawarkan.",
+        "bestFor": [
+          "Kawasan sekeliling kolam",
+          "Teres hospitaliti",
+          "Kawasan luaran penggunaan tinggi",
+          "Projek kediaman premium"
+        ],
+        "buyerChecks": [
+          "Liputan dan ketebalan lapisan pelindung",
+          "Lekatan lapisan pelindung",
+          "Bukti rintangan gelincir dan cuaca",
+          "Konsistensi warna",
+          "Sampel permukaan yang diluluskan"
+        ]
+      },
+      {
+        "name": "Jubin dek DIY",
+        "positioning": "Pilihan modular untuk kawasan retrofit yang lebih kecil dan kemasan lantai boleh tanggal.",
+        "construction": "Bilah WPC pendek dipasang pada tapak saling kunci untuk membentuk modul berulang. Tapak, mekanisme kunci dan laluan saliran sama pentingnya dengan bilah yang kelihatan.",
+        "bestFor": [
+          "Balkoni",
+          "Kawasan riadah atas bumbung",
+          "Laman kecil",
+          "Zon sementara atau boleh diganti"
+        ],
+        "buyerChecks": [
+          "Saiz modul",
+          "Keserasian kunci",
+          "Bahan asas",
+          "Elaun saliran",
+          "Perimeter dan pelan potongan"
+        ]
+      },
+      {
+        "name": "Panel Dinding Luar",
+        "positioning": "Untuk pelapisan hiasan berventilasi dan permukaan seni bina luaran.",
+        "construction": "Profil dinding tersemperit dipasang pada subrangka yang serasi, dengan titik pemasangan terkawal serta elaun pengudaraan dan pergerakan.",
+        "bestFor": [
+          "Dinding ciri luaran",
+          "Fasad hospitaliti",
+          "Bangunan taman",
+          "Skrin kawasan perkhidmatan"
+        ],
+        "buyerChecks": [
+          "Orientasi profil",
+          "Bahan subrangka",
+          "Reka bentuk beban angin dan pemasangan",
+          "Saliran dan pengudaraan",
+          "Bukti api diperlukan"
+        ]
+      },
+      {
+        "name": "Tiub persegi WPC",
+        "positioning": "Untuk batten hiasan, skrin dan ciri landskap.",
+        "construction": "Profil berongga segi empat sama atau segi empat tepat menghasilkan elemen linear menyerupai kayu. Ia bersifat hiasan melainkan pengukuhan dan sokongan dalaman direka bentuk secara khusus untuk projek.",
+        "bestFor": [
+          "Skrin privasi",
+          "Ciri pergola",
+          "Bilah fasad",
+          "Elemen landskap"
+        ],
+        "buyerChecks": [
+          "Saiz profil dan ketebalan dinding",
+          "Jarak sokongan",
+          "Peneguhan dalaman",
+          "Pendedahan angin",
+          "Penutup hujung dan kaedah pemasangan"
+        ]
+      },
+      {
+        "name": "Sistem pagar WPC",
+        "positioning": "Sistem papan, tiang, rel dan penutup yang diselaraskan untuk sempadan serta skrin luar.",
+        "construction": "Papan pagar berfungsi dengan tiang sepadan, rel, kurungan dan penutup. Kawasan pintu dan zon angin tinggi memerlukan pertimbangan struktur yang berasingan.",
+        "bestFor": [
+          "Sempadan taman",
+          "Skrin hospitaliti",
+          "Privasi kediaman",
+          "Pendedahan landskap"
+        ],
+        "buyerChecks": [
+          "Senarai bahan lengkap",
+          "Jarak pusat tiang",
+          "Muatan angin",
+          "Perkakasan pintu",
+          "Papan gantian dan pelan padanan warna kelompok"
+        ]
+      },
+      {
+        "name": "Gelegar, klip & pedestal",
+        "positioning": "Komponen tersembunyi yang menjadikan sistem WPC yang kelihatan boleh dipasang.",
+        "construction": "Gelegar membentuk grid sokongan; klip mengawal pemasangan papan dan jurang; pedestal menetapkan aras siap serta saliran apabila diperlukan.",
+        "bestFor": [
+          "Pakej dek lengkap",
+          "Teres yang dinaikkan",
+          "Kit pemasangan komersial",
+          "Stok pertukaran dan penyelenggaraan"
+        ],
+        "buyerChecks": [
+          "Jarak sokongan khusus profil",
+          "Bahan pengikat",
+          "Persekitaran penggunaan",
+          "Butiran pengembangan",
+          "Kuantiti aksesori dengan elaun pemasangan"
+        ]
+      }
+    ],
+    "applications": [
+      "Teres dan kawasan sekeliling kolam",
+      "Balkoni dan laluan pejalan kaki",
+      "Pelapisan dinding luar",
+      "Pagar taman dan skrin",
+      "Projek landskap dan hospitaliti"
+    ],
+    "buyerChecklist": [
+      "Gred tradisional atau ko-penyemperitan serta binaan lapisan pelindung yang tepat",
+      "Lukisan profil, ketebalan dinding, berat unit dan muka boleh digunakan",
+      "Beban projek, jarak sokongan dan orientasi pemasangan",
+      "Warna, rawatan permukaan dan sampel lot yang diluluskan",
+      "Substruktur, klip, pengikat, pedestal dan senarai bahan lengkap",
+      "Keperluan pengembangan, saliran dan pengudaraan untuk iklim projek",
+      "Panjang pembungkusan, pelan pemuatan kontena dan strategi stok gantian"
+    ],
+    "gallery": [
+      {
+        "src": "/assets/wpc-profile-3.webp",
+        "alt": "Paparan kipas papan dek WPC lubang bulat",
+        "caption": "Profil berlubang bulat mengimbangi berat dan kekakuan; data jarak sokongan kekal khusus bagi setiap profil."
+      },
+      {
+        "src": "/assets/wpc-profile-6.webp",
+        "alt": "Profil dek WPC kelabu gelap pada latar belakang putih",
+        "caption": "Rujukan bersih profil untuk warna, kelulusan butiran permukaan dan tepi."
+      }
+    ],
+    "galleryLayout": "grid",
+    "galleryEyebrow": "Bukti profil",
+    "galleryTitle": "Nilai geometri sebelum meluluskan warna.",
+    "galleryIntro": "Kedua-dua profil tambahan ini melengkapkan pemeriksaan geometri. Formulasi, penyemperitan, permukaan dan imej pemasangan kini terletak di sebelah titik teknikal yang mereka jelaskan.",
+    "note": "Profil, jarak sokongan, substruktur, warna, rawatan permukaan dan sistem pemasangan mesti dipilih bersama untuk menghasilkan sebut harga yang setanding."
+  },
+  {
+    "slug": "acoustic-panels",
+    "name": "Panel Akustik",
+    "fullName": "Panel Akustik Bilah Kayu",
+    "category": "Permukaan akustik dalaman",
+    "short": "Bilah kayu hiasan di atas felt PET untuk dinding dan siling yang memerlukan penyerapan bunyi lebih baik.",
+    "description": "Panel Akustik Bilah Kayu menggabungkan bilah MDF berkemasan dengan felt akustik PET. Lebar dan jarak bilah, ketumpatan felt, kaedah pemasangan serta ruang udara di belakang membentuk satu binaan yang diuji; rupa kemasan sahaja tidak menentukan prestasi akustik atau kebakaran.",
+    "procurementFocus": "Untuk projek kontrak, Boreviax menyelaraskan sampel hiasan dengan pembinaan akustik yang tepat, bukti kebakaran, dimensi panel dan kaedah pemasangan supaya penampilan yang diluluskan tidak tiba dengan pembinaan teknikal yang salah.",
+    "hero": "/assets/acoustic-hero.webp",
+    "detailImage": "/assets/acoustic-product.webp",
+    "specs": [
+      {
+        "label": "Bahan",
+        "value": "Bilah MDF dan felt gentian PET"
+      },
+      {
+        "label": "Rujukan panjang",
+        "value": "2440/2900 mm"
+      },
+      {
+        "label": "Rujukan lebar",
+        "value": "605 mm atau tersuai"
+      },
+      {
+        "label": "Rujukan ketebalan",
+        "value": "21 mm atau tersuai"
+      },
+      {
+        "label": "Rujukan pembekal NRC",
+        "value": "0.8"
+      },
+      {
+        "label": "Pemasangan",
+        "value": "Skru atau pelekat pemasangan"
+      }
+    ],
+    "variants": [
+      "Venir kayu asli",
+      "Kemasan PVC",
+      "Kemasan kertas foil",
+      "Jarak dan corak bilah tersuai"
+    ],
+    "features": [
+      "Penampilan linear hiasan",
+      "Sokongan felt akustik PET",
+      "Pemasangan dinding dan siling",
+      "Penyesuaian kemasan dan corak"
+    ],
+    "applications": [
+      "Pejabat dan bilik mesyuarat",
+      "Restoran dan hotel",
+      "Ruang kediaman",
+      "Bilik media dan hiburan",
+      "Dinding dan siling hiasan"
+    ],
+    "buyerChecklist": [
+      "Lebar dan jarak bilah, teras serta kemasan hiasan yang tepat",
+      "Ketebalan, ketumpatan dan warna felt PET",
+      "NRC atau bukti penyerapan untuk pembinaan pemasangan yang diuji",
+      "Laporan kebakaran yang sepadan dengan ketebalan bilah, felt, kemasan dan binaan panel",
+      "Substrat dinding atau siling, ruang udara dan kaedah pemasangan",
+      "Susun atur sambungan panel, kemasan tepi dan sampel warna yang sepadan dengan tempahan"
+    ],
+    "note": "Rujukan akustik dan kebakaran bergantung pada binaan panel yang tepat. Minta laporan EN 13501-1, ASTM E84 atau bukti akustik semasa apabila projek menetapkan penarafan."
+  }
+]

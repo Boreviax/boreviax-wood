@@ -6,14 +6,6 @@ export const metadata: Metadata = {
   title: "Products",
   description:
     "Explore Boreviax plywood, MDF, particle board, FOSB, WPC and acoustic panel solutions.",
-  alternates: {
-    canonical: "/products",
-    languages: {
-      en: "/products",
-      "ms-MY": "/ms/products",
-      ar: "/ar/products",
-    },
-  },
 };
 
 export default function ProductsPage() {

@@ -1,0 +1,935 @@
+{
+  "hpl": [
+    {
+      "id": "honey-amber-oak",
+      "name": "Honey Amber Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-honey-amber-oak.webp",
+      "page": 8,
+      "width": 859,
+      "height": 254
+    },
+    {
+      "id": "smoky-taupe-oak",
+      "name": "Smoky Taupe Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-smoky-taupe-oak.webp",
+      "page": 8,
+      "width": 859,
+      "height": 254
+    },
+    {
+      "id": "urban-walnut-oak",
+      "name": "Urban Walnut Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-urban-walnut-oak.webp",
+      "page": 8,
+      "width": 859,
+      "height": 254
+    },
+    {
+      "id": "midnight-ebony-oak",
+      "name": "Midnight Ebony Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-midnight-ebony-oak.webp",
+      "page": 8,
+      "width": 859,
+      "height": 254
+    },
+    {
+      "id": "nordic-white-oak",
+      "name": "Nordic White Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-nordic-white-oak.webp",
+      "page": 9,
+      "width": 855,
+      "height": 253
+    },
+    {
+      "id": "antique-bronze-oak",
+      "name": "Antique Bronze Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-antique-bronze-oak.webp",
+      "page": 9,
+      "width": 855,
+      "height": 253
+    },
+    {
+      "id": "graphite-linear-oak",
+      "name": "Graphite Linear Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-graphite-linear-oak.webp",
+      "page": 9,
+      "width": 856,
+      "height": 254
+    },
+    {
+      "id": "carbon-black-oak",
+      "name": "Carbon Black Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-carbon-black-oak.webp",
+      "page": 9,
+      "width": 855,
+      "height": 254
+    },
+    {
+      "id": "natural-linen-elm",
+      "name": "Natural Linen Elm",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-natural-linen-elm.webp",
+      "page": 10,
+      "width": 860,
+      "height": 253
+    },
+    {
+      "id": "golden-sand-elm",
+      "name": "Golden Sand Elm",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-golden-sand-elm.webp",
+      "page": 10,
+      "width": 860,
+      "height": 254
+    },
+    {
+      "id": "mocha-ash-elm",
+      "name": "Mocha Ash Elm",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-mocha-ash-elm.webp",
+      "page": 10,
+      "width": 860,
+      "height": 254
+    },
+    {
+      "id": "silver-mist-elm",
+      "name": "Silver Mist Elm",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-silver-mist-elm.webp",
+      "page": 10,
+      "width": 860,
+      "height": 253
+    },
+    {
+      "id": "blonde-rift-oak",
+      "name": "Blonde Rift Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-blonde-rift-oak.webp",
+      "page": 11,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "warm-greige-oak",
+      "name": "Warm Greige Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-warm-greige-oak.webp",
+      "page": 11,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "soft-ash-oak",
+      "name": "Soft Ash Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-soft-ash-oak.webp",
+      "page": 11,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "charcoal-rift-oak",
+      "name": "Charcoal Rift Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-charcoal-rift-oak.webp",
+      "page": 11,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "amber-vienna-oak",
+      "name": "Amber Vienna Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-amber-vienna-oak.webp",
+      "page": 12,
+      "width": 859,
+      "height": 361
+    },
+    {
+      "id": "taupe-vienna-oak",
+      "name": "Taupe Vienna Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-taupe-vienna-oak.webp",
+      "page": 12,
+      "width": 859,
+      "height": 364
+    },
+    {
+      "id": "dark-vienna-oak",
+      "name": "Dark Vienna Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-dark-vienna-oak.webp",
+      "page": 12,
+      "width": 859,
+      "height": 364
+    },
+    {
+      "id": "alpine-ash-oak",
+      "name": "Alpine Ash Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-alpine-ash-oak.webp",
+      "page": 13,
+      "width": 857,
+      "height": 253
+    },
+    {
+      "id": "graphite-ash-oak",
+      "name": "Graphite Ash Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-graphite-ash-oak.webp",
+      "page": 13,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "burmese-golden-teak",
+      "name": "Burmese Golden Teak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-burmese-golden-teak.webp",
+      "page": 13,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "burmese-copper-teak",
+      "name": "Burmese Copper Teak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-burmese-copper-teak.webp",
+      "page": 13,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "sydney-cocoa-eucalyptus",
+      "name": "Sydney Cocoa Eucalyptus",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-sydney-cocoa-eucalyptus.webp",
+      "page": 14,
+      "width": 860,
+      "height": 253
+    },
+    {
+      "id": "sydney-bronze-eucalyptus",
+      "name": "Sydney Bronze Eucalyptus",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-sydney-bronze-eucalyptus.webp",
+      "page": 14,
+      "width": 860,
+      "height": 255
+    },
+    {
+      "id": "sydney-walnut-eucalyptus",
+      "name": "Sydney Walnut Eucalyptus",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-sydney-walnut-eucalyptus.webp",
+      "page": 14,
+      "width": 860,
+      "height": 254
+    },
+    {
+      "id": "sydney-smoke-eucalyptus",
+      "name": "Sydney Smoke Eucalyptus",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/hpl-sydney-smoke-eucalyptus.webp",
+      "page": 14,
+      "width": 860,
+      "height": 254
+    },
+    {
+      "id": "frosted-cabinet-oak",
+      "name": "Frosted Cabinet Oak",
+      "group": "textured-wood",
+      "image": "/assets/surfaces/hpl-frosted-cabinet-oak.webp",
+      "page": 15,
+      "width": 856,
+      "height": 362
+    },
+    {
+      "id": "carbon-cabinet-oak",
+      "name": "Carbon Cabinet Oak",
+      "group": "textured-wood",
+      "image": "/assets/surfaces/hpl-carbon-cabinet-oak.webp",
+      "page": 15,
+      "width": 856,
+      "height": 361
+    },
+    {
+      "id": "pearl-sycamore-weave",
+      "name": "Pearl Sycamore Weave",
+      "group": "textured-wood",
+      "image": "/assets/surfaces/hpl-pearl-sycamore-weave.webp",
+      "page": 15,
+      "width": 856,
+      "height": 364
+    },
+    {
+      "id": "natural-tengchong-weave",
+      "name": "Natural Tengchong Weave",
+      "group": "textured-wood",
+      "image": "/assets/surfaces/hpl-natural-tengchong-weave.webp",
+      "page": 16,
+      "width": 859,
+      "height": 362
+    },
+    {
+      "id": "linen-tengchong-weave",
+      "name": "Linen Tengchong Weave",
+      "group": "textured-wood",
+      "image": "/assets/surfaces/hpl-linen-tengchong-weave.webp",
+      "page": 16,
+      "width": 859,
+      "height": 361
+    },
+    {
+      "id": "graphite-tengchong-weave",
+      "name": "Graphite Tengchong Weave",
+      "group": "textured-wood",
+      "image": "/assets/surfaces/hpl-graphite-tengchong-weave.webp",
+      "page": 16,
+      "width": 859,
+      "height": 361
+    },
+    {
+      "id": "arctic-limestone",
+      "name": "Arctic Limestone",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-arctic-limestone.webp",
+      "page": 18,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "mist-limestone",
+      "name": "Mist Limestone",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-mist-limestone.webp",
+      "page": 18,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "frosted-travertine",
+      "name": "Frosted Travertine",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-frosted-travertine.webp",
+      "page": 18,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "graphite-travertine",
+      "name": "Graphite Travertine",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-graphite-travertine.webp",
+      "page": 18,
+      "width": 857,
+      "height": 254
+    },
+    {
+      "id": "barcelona-ivory-sandstone",
+      "name": "Barcelona Ivory Sandstone",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-barcelona-ivory-sandstone.webp",
+      "page": 19,
+      "width": 859,
+      "height": 361
+    },
+    {
+      "id": "barcelona-beige-sandstone",
+      "name": "Barcelona Beige Sandstone",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-barcelona-beige-sandstone.webp",
+      "page": 19,
+      "width": 859,
+      "height": 361
+    },
+    {
+      "id": "barcelona-grey-sandstone",
+      "name": "Barcelona Grey Sandstone",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-barcelona-grey-sandstone.webp",
+      "page": 19,
+      "width": 859,
+      "height": 361
+    },
+    {
+      "id": "australian-pearl-sandstone",
+      "name": "Australian Pearl Sandstone",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-australian-pearl-sandstone.webp",
+      "page": 20,
+      "width": 856,
+      "height": 361
+    },
+    {
+      "id": "verona-blue-stone",
+      "name": "Verona Blue Stone",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-verona-blue-stone.webp",
+      "page": 20,
+      "width": 856,
+      "height": 361
+    },
+    {
+      "id": "verona-umber-stone",
+      "name": "Verona Umber Stone",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-verona-umber-stone.webp",
+      "page": 20,
+      "width": 857,
+      "height": 361
+    },
+    {
+      "id": "venetian-cloud-marble",
+      "name": "Venetian Cloud Marble",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-venetian-cloud-marble.webp",
+      "page": 21,
+      "width": 859,
+      "height": 361
+    },
+    {
+      "id": "italian-ivory-travertine",
+      "name": "Italian Ivory Travertine",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-italian-ivory-travertine.webp",
+      "page": 21,
+      "width": 859,
+      "height": 362
+    },
+    {
+      "id": "roman-mist-marble",
+      "name": "Roman Mist Marble",
+      "group": "stone",
+      "image": "/assets/surfaces/hpl-roman-mist-marble.webp",
+      "page": 21,
+      "width": 859,
+      "height": 361
+    },
+    {
+      "id": "obsidian-wave",
+      "name": "Obsidian Wave",
+      "group": "linear",
+      "image": "/assets/surfaces/hpl-obsidian-wave.webp",
+      "page": 22,
+      "width": 854,
+      "height": 362
+    },
+    {
+      "id": "slate-wave",
+      "name": "Slate Wave",
+      "group": "linear",
+      "image": "/assets/surfaces/hpl-slate-wave.webp",
+      "page": 22,
+      "width": 857,
+      "height": 361
+    },
+    {
+      "id": "pearl-wave",
+      "name": "Pearl Wave",
+      "group": "linear",
+      "image": "/assets/surfaces/hpl-pearl-wave.webp",
+      "page": 22,
+      "width": 857,
+      "height": 361
+    },
+    {
+      "id": "oxford-pearl-fabric",
+      "name": "Oxford Pearl Fabric",
+      "group": "fabric",
+      "image": "/assets/surfaces/hpl-oxford-pearl-fabric.webp",
+      "page": 24,
+      "width": 860,
+      "height": 361
+    },
+    {
+      "id": "oxford-sage-fabric",
+      "name": "Oxford Sage Fabric",
+      "group": "fabric",
+      "image": "/assets/surfaces/hpl-oxford-sage-fabric.webp",
+      "page": 24,
+      "width": 860,
+      "height": 362
+    },
+    {
+      "id": "oxford-taupe-fabric",
+      "name": "Oxford Taupe Fabric",
+      "group": "fabric",
+      "image": "/assets/surfaces/hpl-oxford-taupe-fabric.webp",
+      "page": 24,
+      "width": 860,
+      "height": 361
+    },
+    {
+      "id": "cairo-pearl-fabric",
+      "name": "Cairo Pearl Fabric",
+      "group": "fabric",
+      "image": "/assets/surfaces/hpl-cairo-pearl-fabric.webp",
+      "page": 25,
+      "width": 856,
+      "height": 360
+    },
+    {
+      "id": "cairo-greige-fabric",
+      "name": "Cairo Greige Fabric",
+      "group": "fabric",
+      "image": "/assets/surfaces/hpl-cairo-greige-fabric.webp",
+      "page": 25,
+      "width": 856,
+      "height": 361
+    },
+    {
+      "id": "cairo-sand-fabric",
+      "name": "Cairo Sand Fabric",
+      "group": "fabric",
+      "image": "/assets/surfaces/hpl-cairo-sand-fabric.webp",
+      "page": 25,
+      "width": 855,
+      "height": 361
+    },
+    {
+      "id": "silver-satin-brushed",
+      "name": "Silver Satin Brushed",
+      "group": "metallic",
+      "image": "/assets/surfaces/hpl-silver-satin-brushed.webp",
+      "page": 27,
+      "width": 856,
+      "height": 361
+    },
+    {
+      "id": "steel-grey-brushed",
+      "name": "Steel Grey Brushed",
+      "group": "metallic",
+      "image": "/assets/surfaces/hpl-steel-grey-brushed.webp",
+      "page": 27,
+      "width": 856,
+      "height": 361
+    },
+    {
+      "id": "champagne-gold-brushed",
+      "name": "Champagne Gold Brushed",
+      "group": "metallic",
+      "image": "/assets/surfaces/hpl-champagne-gold-brushed.webp",
+      "page": 27,
+      "width": 857,
+      "height": 361
+    },
+    {
+      "id": "porcelain-white",
+      "name": "Porcelain White",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-porcelain-white.webp",
+      "page": 29,
+      "width": 390,
+      "height": 280
+    },
+    {
+      "id": "stone-grey",
+      "name": "Stone Grey",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-stone-grey.webp",
+      "page": 29,
+      "width": 391,
+      "height": 280
+    },
+    {
+      "id": "iron-grey",
+      "name": "Iron Grey",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-iron-grey.webp",
+      "page": 29,
+      "width": 392,
+      "height": 280
+    },
+    {
+      "id": "dusty-blush",
+      "name": "Dusty Blush",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-dusty-blush.webp",
+      "page": 29,
+      "width": 390,
+      "height": 281
+    },
+    {
+      "id": "terracotta-orange",
+      "name": "Terracotta Orange",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-terracotta-orange.webp",
+      "page": 29,
+      "width": 391,
+      "height": 281
+    },
+    {
+      "id": "oxblood-red",
+      "name": "Oxblood Red",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-oxblood-red.webp",
+      "page": 29,
+      "width": 392,
+      "height": 281
+    },
+    {
+      "id": "eucalyptus-green",
+      "name": "Eucalyptus Green",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-eucalyptus-green.webp",
+      "page": 29,
+      "width": 390,
+      "height": 281
+    },
+    {
+      "id": "mineral-jade",
+      "name": "Mineral Jade",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-mineral-jade.webp",
+      "page": 29,
+      "width": 391,
+      "height": 281
+    },
+    {
+      "id": "storm-blue",
+      "name": "Storm Blue",
+      "group": "solid-colors",
+      "image": "/assets/surfaces/hpl-storm-blue.webp",
+      "page": 29,
+      "width": 392,
+      "height": 281
+    }
+  ],
+  "pet-film": [
+    {
+      "id": "crystal-white",
+      "name": "Crystal White",
+      "group": "high-gloss",
+      "image": "/assets/surfaces/pet-film-crystal-white.webp",
+      "page": 32,
+      "width": 585,
+      "height": 269
+    },
+    {
+      "id": "pearl-stripe-white",
+      "name": "Pearl Stripe White",
+      "group": "pearlescent",
+      "image": "/assets/surfaces/pet-film-pearl-stripe-white.webp",
+      "page": 32,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "soft-ivory",
+      "name": "Soft Ivory",
+      "group": "high-gloss",
+      "image": "/assets/surfaces/pet-film-soft-ivory.webp",
+      "page": 32,
+      "width": 586,
+      "height": 267
+    },
+    {
+      "id": "mist-silver",
+      "name": "Mist Silver",
+      "group": "high-gloss",
+      "image": "/assets/surfaces/pet-film-mist-silver.webp",
+      "page": 32,
+      "width": 587,
+      "height": 267
+    },
+    {
+      "id": "graphite-mirror",
+      "name": "Graphite Mirror",
+      "group": "high-gloss",
+      "image": "/assets/surfaces/pet-film-graphite-mirror.webp",
+      "page": 32,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "piano-black",
+      "name": "Piano Black",
+      "group": "high-gloss",
+      "image": "/assets/surfaces/pet-film-piano-black.webp",
+      "page": 32,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "cashmere-beige",
+      "name": "Cashmere Beige",
+      "group": "super-matte",
+      "image": "/assets/surfaces/pet-film-cashmere-beige.webp",
+      "page": 33,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "warm-greige",
+      "name": "Warm Greige",
+      "group": "super-matte",
+      "image": "/assets/surfaces/pet-film-warm-greige.webp",
+      "page": 33,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "urban-taupe",
+      "name": "Urban Taupe",
+      "group": "super-matte",
+      "image": "/assets/surfaces/pet-film-urban-taupe.webp",
+      "page": 33,
+      "width": 586,
+      "height": 267
+    },
+    {
+      "id": "olive-grove",
+      "name": "Olive Grove",
+      "group": "super-matte",
+      "image": "/assets/surfaces/pet-film-olive-grove.webp",
+      "page": 33,
+      "width": 587,
+      "height": 267
+    },
+    {
+      "id": "deep-navy",
+      "name": "Deep Navy",
+      "group": "super-matte",
+      "image": "/assets/surfaces/pet-film-deep-navy.webp",
+      "page": 33,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "charcoal-black",
+      "name": "Charcoal Black",
+      "group": "super-matte",
+      "image": "/assets/surfaces/pet-film-charcoal-black.webp",
+      "page": 33,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "champagne-gold",
+      "name": "Champagne Gold",
+      "group": "metallic",
+      "image": "/assets/surfaces/pet-film-champagne-gold.webp",
+      "page": 34,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "brushed-bronze",
+      "name": "Brushed Bronze",
+      "group": "metallic",
+      "image": "/assets/surfaces/pet-film-brushed-bronze.webp",
+      "page": 34,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "titanium-grey",
+      "name": "Titanium Grey",
+      "group": "metallic",
+      "image": "/assets/surfaces/pet-film-titanium-grey.webp",
+      "page": 34,
+      "width": 586,
+      "height": 267
+    },
+    {
+      "id": "satin-silver",
+      "name": "Satin Silver",
+      "group": "metallic",
+      "image": "/assets/surfaces/pet-film-satin-silver.webp",
+      "page": 34,
+      "width": 587,
+      "height": 267
+    },
+    {
+      "id": "rose-copper",
+      "name": "Rose Copper",
+      "group": "metallic",
+      "image": "/assets/surfaces/pet-film-rose-copper.webp",
+      "page": 34,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "pearl-beige",
+      "name": "Pearl Beige",
+      "group": "pearlescent",
+      "image": "/assets/surfaces/pet-film-pearl-beige.webp",
+      "page": 34,
+      "width": 587,
+      "height": 269
+    }
+  ],
+  "pvc-film": [
+    {
+      "id": "heritage-oak",
+      "name": "Heritage Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/pvc-film-heritage-oak.webp",
+      "page": 38,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "scandi-light-oak",
+      "name": "Scandi Light Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/pvc-film-scandi-light-oak.webp",
+      "page": 38,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "smoked-taupe-oak",
+      "name": "Smoked Taupe Oak",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/pvc-film-smoked-taupe-oak.webp",
+      "page": 38,
+      "width": 586,
+      "height": 267
+    },
+    {
+      "id": "classic-walnut",
+      "name": "Classic Walnut",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/pvc-film-classic-walnut.webp",
+      "page": 38,
+      "width": 587,
+      "height": 267
+    },
+    {
+      "id": "espresso-walnut",
+      "name": "Espresso Walnut",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/pvc-film-espresso-walnut.webp",
+      "page": 38,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "silver-ash",
+      "name": "Silver Ash",
+      "group": "woodgrain",
+      "image": "/assets/surfaces/pvc-film-silver-ash.webp",
+      "page": 38,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "carrara-cloud",
+      "name": "Carrara Cloud",
+      "group": "stone",
+      "image": "/assets/surfaces/pvc-film-carrara-cloud.webp",
+      "page": 39,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "calacatta-vein",
+      "name": "Calacatta Vein",
+      "group": "stone",
+      "image": "/assets/surfaces/pvc-film-calacatta-vein.webp",
+      "page": 39,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "roman-ivory-travertine",
+      "name": "Roman Ivory Travertine",
+      "group": "stone",
+      "image": "/assets/surfaces/pvc-film-roman-ivory-travertine.webp",
+      "page": 39,
+      "width": 586,
+      "height": 267
+    },
+    {
+      "id": "warm-cement",
+      "name": "Warm Cement",
+      "group": "stone",
+      "image": "/assets/surfaces/pvc-film-warm-cement.webp",
+      "page": 39,
+      "width": 587,
+      "height": 267
+    },
+    {
+      "id": "urban-concrete",
+      "name": "Urban Concrete",
+      "group": "stone",
+      "image": "/assets/surfaces/pvc-film-urban-concrete.webp",
+      "page": 39,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "midnight-slate",
+      "name": "Midnight Slate",
+      "group": "stone",
+      "image": "/assets/surfaces/pvc-film-midnight-slate.webp",
+      "page": 39,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "soft-alabaster",
+      "name": "Soft Alabaster",
+      "group": "solid",
+      "image": "/assets/surfaces/pvc-film-soft-alabaster.webp",
+      "page": 40,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "cashmere-beige",
+      "name": "Cashmere Beige",
+      "group": "solid",
+      "image": "/assets/surfaces/pvc-film-cashmere-beige.webp",
+      "page": 40,
+      "width": 587,
+      "height": 269
+    },
+    {
+      "id": "light-dove-grey",
+      "name": "Light Dove Grey",
+      "group": "solid",
+      "image": "/assets/surfaces/pvc-film-light-dove-grey.webp",
+      "page": 40,
+      "width": 586,
+      "height": 267
+    },
+    {
+      "id": "sage-leaf",
+      "name": "Sage Leaf",
+      "group": "solid",
+      "image": "/assets/surfaces/pvc-film-sage-leaf.webp",
+      "page": 40,
+      "width": 587,
+      "height": 267
+    },
+    {
+      "id": "graphite-grey",
+      "name": "Graphite Grey",
+      "group": "solid",
+      "image": "/assets/surfaces/pvc-film-graphite-grey.webp",
+      "page": 40,
+      "width": 586,
+      "height": 269
+    },
+    {
+      "id": "natural-linen",
+      "name": "Natural Linen",
+      "group": "fabric",
+      "image": "/assets/surfaces/pvc-film-natural-linen.webp",
+      "page": 40,
+      "width": 587,
+      "height": 269
+    }
+  ]
+}
