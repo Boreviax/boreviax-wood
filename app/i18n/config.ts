@@ -32,6 +32,7 @@ export const commonCopy = {
     nav: {
       home: "Home",
       products: "Products",
+      surfaces: "Decorative Surfaces",
       about: "About",
       quote: "Request a Quote",
       primary: "Primary navigation",
@@ -41,7 +42,7 @@ export const commonCopy = {
     },
     footer: {
       description:
-        "International sales, specification coordination and delivery support for plywood, furniture panels, WPC and acoustic surfaces.",
+        "International sales, specification coordination and delivery support for plywood, furniture panels, HPL, PET and PVC decorative surfaces, WPC and acoustic panels.",
       navigate: "Navigate",
       about: "About Boreviax",
       mainSite: "Boreviax main site",
@@ -54,6 +55,7 @@ export const commonCopy = {
     nav: {
       home: "Utama",
       products: "Produk",
+      surfaces: "Permukaan Hiasan",
       about: "Tentang Kami",
       quote: "Minta Sebut Harga",
       primary: "Navigasi utama",
@@ -63,7 +65,7 @@ export const commonCopy = {
     },
     footer: {
       description:
-        "Jualan antarabangsa, penyelarasan spesifikasi dan sokongan penghantaran untuk papan lapis, panel perabot, WPC dan permukaan akustik.",
+        "Jualan antarabangsa, penyelarasan spesifikasi dan sokongan penghantaran untuk papan lapis, panel perabot, permukaan hiasan HPL, PET dan PVC, WPC serta panel akustik.",
       navigate: "Navigasi",
       about: "Tentang Boreviax",
       mainSite: "Laman utama Boreviax",
@@ -76,6 +78,7 @@ export const commonCopy = {
     nav: {
       home: "الرئيسية",
       products: "المنتجات",
+      surfaces: "الأسطح الزخرفية",
       about: "من نحن",
       quote: "طلب عرض سعر",
       primary: "التنقل الرئيسي",
@@ -85,7 +88,7 @@ export const commonCopy = {
     },
     footer: {
       description:
-        "مبيعات دولية وتنسيق للمواصفات ودعم للتسليم لمنتجات الخشب الرقائقي وألواح الأثاث وWPC والأسطح الصوتية.",
+        "مبيعات دولية وتنسيق للمواصفات ودعم للتسليم للخشب الرقائقي وألواح الأثاث والأسطح الزخرفية HPL وPET وPVC وWPC والألواح الصوتية.",
       navigate: "التنقل",
       about: "عن Boreviax",
       mainSite: "الموقع الرئيسي لـ Boreviax",

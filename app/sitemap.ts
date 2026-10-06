@@ -4,17 +4,27 @@ import { products } from "./data/products";
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://wood.boreviax.com";
   const now = new Date();
+  const pagePaths = ["", "/products", "/about", "/contact"];
+  const productPaths = products.map((product) => `/products/${product.slug}`);
+  const paths = [...pagePaths, ...productPaths];
 
-  return [
-    { url: baseUrl, lastModified: now, changeFrequency: "monthly", priority: 1 },
-    { url: `${baseUrl}/products`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
-    { url: `${baseUrl}/about`, lastModified: now, changeFrequency: "yearly", priority: 0.6 },
-    { url: `${baseUrl}/contact`, lastModified: now, changeFrequency: "yearly", priority: 0.7 },
-    ...products.map((product) => ({
-      url: `${baseUrl}/products/${product.slug}`,
+  return paths.flatMap((path) => {
+    const alternates = {
+      languages: {
+        en: `${baseUrl}${path}`,
+        "ms-MY": `${baseUrl}/ms${path}`,
+        ar: `${baseUrl}/ar${path}`,
+      },
+    };
+    const priority = path === "" ? 1 : path === "/products" ? 0.9 : path.startsWith("/products/") ? 0.8 : path === "/contact" ? 0.7 : 0.6;
+    const changeFrequency = path === "/about" || path === "/contact" ? "yearly" as const : "monthly" as const;
+
+    return ["", "/ms", "/ar"].map((prefix) => ({
+      url: `${baseUrl}${prefix}${path}`,
       lastModified: now,
-      changeFrequency: "monthly" as const,
-      priority: 0.8,
-    })),
-  ];
+      changeFrequency,
+      priority,
+      alternates,
+    }));
+  });
 }

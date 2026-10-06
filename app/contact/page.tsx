@@ -5,6 +5,10 @@ export const metadata: Metadata = {
   title: "Request a Quote",
   description:
     "Send Boreviax a complete board-material RFQ by WhatsApp or email.",
+  alternates: {
+    canonical: "/contact",
+    languages: { en: "/contact", "ms-MY": "/ms/contact", ar: "/ar/contact" },
+  },
 };
 
 const whatsappContacts = [

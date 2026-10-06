@@ -1,9 +1,10 @@
 import Link from "next/link";
 import { ProductCard } from "./components/ProductCard";
 import { products } from "./data/products";
+import { DecorativeSurfacesSection } from "./components/DecorativeSurfacesSection";
 
 const coreProducts = products.slice(0, 7);
-const surfaceProducts = products.slice(7);
+const surfaceProducts = products.filter((product) => ["wpc-products", "acoustic-panels"].includes(product.slug));
 const priorityProducts = products.filter((product) =>
   ["flexible-plywood", "duraply", "functional-plywood"].includes(product.slug),
 );
@@ -21,7 +22,7 @@ export default function Home() {
         <div className="hero-shade" />
         <div className="shell hero-content">
           <p className="eyebrow light">
-            Plywood · Furniture panels · WPC · Acoustic surfaces
+            Plywood · Decorative surfaces · WPC · Acoustic panels
           </p>
           <h1>Panel supply built to prevent production surprises.</h1>
           <p className="hero-lead">
@@ -43,8 +44,8 @@ export default function Home() {
               <span>Cross-border panel trade experience</span>
             </div>
             <div>
-              <strong>9 families</strong>
-              <span>Panels, WPC and acoustic surfaces</span>
+              <strong>{products.length} families</strong>
+              <span>Boards, decorative surfaces, WPC and acoustics</span>
             </div>
             <div>
               <strong>One route</strong>
@@ -177,6 +178,8 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      <DecorativeSurfacesSection />
 
       <section className="section surface-section" data-reveal>
         <div className="shell section-heading-row">

@@ -7,11 +7,19 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://wood.boreviax.com"),
   title: {
-    default: "Boreviax Panels | Plywood, MDF, WPC & Acoustic Panels",
+    default: "Boreviax Panels | Plywood, HPL, PET, PVC, WPC & Acoustic Panels",
     template: "%s | Boreviax Panels",
   },
   description:
-    "International supply and specification support for plywood, MDF, particle board, FOSB, WPC and wooden slat acoustic panels.",
+    "International supply and specification support for plywood, core boards, HPL decorative laminate, PET and PVC films, WPC and acoustic panels.",
+  alternates: {
+    canonical: "/",
+    languages: {
+      en: "/",
+      "ms-MY": "/ms",
+      ar: "/ar",
+    },
+  },
   openGraph: {
     title: "Boreviax Panels",
     description:

@@ -4,6 +4,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { QuoteForm } from "../../components/QuoteForm";
 import { getProduct, products } from "../../data/products";
+import { isSurfaceSlug } from "../../data/surfaces";
+import { SurfaceProductPage } from "../../components/SurfaceProductPage";
 
 type ProductPageProps = {
   params: Promise<{ slug: string }>;
@@ -28,6 +30,14 @@ export async function generateMetadata({
       ? `${product.name} — ${product.fullName}`
       : product.name,
     description: product.short,
+    alternates: {
+      canonical: `/products/${slug}`,
+      languages: {
+        en: `/products/${slug}`,
+        "ms-MY": `/ms/products/${slug}`,
+        ar: `/ar/products/${slug}`,
+      },
+    },
     openGraph: {
       title: product.fullName
         ? `${product.name} — ${product.fullName}`
@@ -44,6 +54,10 @@ export default async function ProductPage({ params }: ProductPageProps) {
 
   if (!product) {
     notFound();
+  }
+
+  if (isSurfaceSlug(slug)) {
+    return <SurfaceProductPage slug={slug} />;
   }
 
   return (

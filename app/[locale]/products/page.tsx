@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { ProductCard } from "../../components/ProductCard";
+import { ProductCatalogue } from "../../components/ProductCatalogue";
 import { isLocalizedLocale } from "../../i18n/config";
 import { getLocalizedProducts } from "../../i18n/products";
 
@@ -10,20 +10,20 @@ const copy = {
   ms: {
     title: "Produk",
     description:
-      "Terokai pilihan papan lapis, MDF, papan partikel, FOSB, WPC dan panel akustik Boreviax.",
+      "Terokai papan lapis dan papan teras, laminat HPL, filem PET dan PVC, WPC luaran serta panel akustik Boreviax.",
     eyebrow: "Rangkaian produk Boreviax",
-    heading: "Pilih risiko yang mahu dielakkan.",
+    heading: "Cari bahan untuk aplikasi anda.",
     intro:
-      "Bandingkan binaan setara berdasarkan aplikasi, beban, pemesinan, persekitaran, kemasan, pelan bekalan dan bukti yang diperlukan.",
+      "Lihat papan teras, permukaan hiasan, WPC luaran dan panel akustik. Kemudian padankan binaan serta kemasan dengan projek anda.",
   },
   ar: {
     title: "المنتجات",
     description:
-      "استكشف حلول Boreviax من الخشب الرقائقي وMDF والألواح الحبيبية وFOSB وWPC والألواح الصوتية.",
+      "استكشف الخشب الرقائقي وألواح الأساس ولامينيت HPL وأفلام PET وPVC وWPC الخارجي والألواح الصوتية من Boreviax.",
     eyebrow: "مجموعة منتجات Boreviax",
-    heading: "حدّد المشكلة التي تريد تجنبها.",
+    heading: "اعثر على المادة المناسبة لاستخدامك.",
     intro:
-      "قارن التركيبات المتكافئة بحسب الاستخدام والحمولة والتشغيل الآلي والبيئة والتشطيب وخطة التوريد والأدلة المطلوبة.",
+      "تصفح ألواح الأساس والأسطح الزخرفية وWPC الخارجي والألواح الصوتية، ثم طابق التركيب والتشطيب مع مشروعك.",
   },
 } as const;
 
@@ -61,13 +61,7 @@ export default async function LocalizedProductsPage({ params }: PageProps) {
         </div>
       </section>
 
-      <section className="section products-index" data-reveal>
-        <div className="shell product-grid">
-          {products.map((product) => (
-            <ProductCard key={product.slug} product={product} locale={locale} />
-          ))}
-        </div>
-      </section>
+      <ProductCatalogue products={products} locale={locale} />
     </main>
   );
 }

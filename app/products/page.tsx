@@ -1,11 +1,19 @@
 import type { Metadata } from "next";
-import { ProductCard } from "../components/ProductCard";
+import { ProductCatalogue } from "../components/ProductCatalogue";
 import { products } from "../data/products";
 
 export const metadata: Metadata = {
   title: "Products",
   description:
-    "Explore Boreviax plywood, MDF, particle board, FOSB, WPC and acoustic panel solutions.",
+    "Explore Boreviax plywood and core boards, HPL decorative laminate, PET and PVC films, exterior WPC and acoustic panels.",
+  alternates: {
+    canonical: "/products",
+    languages: {
+      en: "/products",
+      "ms-MY": "/ms/products",
+      ar: "/ar/products",
+    },
+  },
 };
 
 export default function ProductsPage() {
@@ -14,21 +22,15 @@ export default function ProductsPage() {
       <section className="page-hero compact-hero" data-reveal>
         <div className="shell">
           <p className="eyebrow light">Boreviax product range</p>
-          <h1>Choose the failure to prevent.</h1>
+          <h1>Find the material for your application.</h1>
           <p>
-            Compare like-for-like constructions by application, loading,
-            machining, environment, finish, supply plan and required evidence.
+            Browse core boards, decorative surfaces, exterior WPC and acoustic
+            panels. Then match the construction and finish to your project.
           </p>
         </div>
       </section>
 
-      <section className="section products-index" data-reveal>
-        <div className="shell product-grid">
-          {products.map((product) => (
-            <ProductCard key={product.slug} product={product} />
-          ))}
-        </div>
-      </section>
+      <ProductCatalogue products={products} />
     </main>
   );
 }

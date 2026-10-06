@@ -3,6 +3,8 @@ import type { CSSProperties } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { QuoteForm } from "../../../components/QuoteForm";
+import { SurfaceProductPage } from "../../../components/SurfaceProductPage";
+import { isSurfaceSlug } from "../../../data/surfaces";
 import {
   isLocalizedLocale,
   localizedLocales,
@@ -64,6 +66,7 @@ export default async function LocalizedProductPage({ params }: ProductPageProps)
   if (!isLocalizedLocale(locale)) notFound();
   const product = getLocalizedProduct(locale, slug);
   if (!product) notFound();
+  if (isSurfaceSlug(slug)) return <SurfaceProductPage slug={slug} locale={locale} />;
   const page = productPageCopy[locale];
 
   return (

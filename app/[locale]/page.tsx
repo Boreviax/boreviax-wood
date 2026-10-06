@@ -4,15 +4,16 @@ import { notFound } from "next/navigation";
 import { ProductCard } from "../components/ProductCard";
 import { isLocalizedLocale, localizePath } from "../i18n/config";
 import { getLocalizedProducts } from "../i18n/products";
+import { DecorativeSurfacesSection } from "../components/DecorativeSurfacesSection";
 
 type PageProps = { params: Promise<{ locale: string }> };
 
 const copy = {
   ms: {
-    metaTitle: "Boreviax Panels | Papan Lapis, MDF, WPC & Panel Akustik",
+    metaTitle: "Boreviax Panels | Papan Lapis, HPL, PET, PVC, WPC & Panel Akustik",
     metaDescription:
-      "Bekalan antarabangsa dan sokongan spesifikasi untuk papan lapis, MDF, papan partikel, FOSB, WPC dan panel akustik bilah kayu.",
-    heroEyebrow: "Papan lapis · Panel perabot · WPC · Permukaan akustik",
+      "Bekalan antarabangsa dan sokongan spesifikasi untuk papan lapis, papan teras, permukaan hiasan HPL, PET dan PVC, WPC serta panel akustik.",
+    heroEyebrow: "Papan lapis · Permukaan hiasan · WPC · Panel akustik",
     heroTitle: "Bekalan panel yang dibina untuk mengelakkan kejutan pengeluaran.",
     heroLead:
       "Boreviax menyelaraskan binaan panel, sampel diluluskan, sumber pengeluaran, bukti, pembungkusan dan pelan penghantaran supaya pasukan pembelian dapat melindungi kualiti, tempoh siap dan kesinambungan pengeluaran.",
@@ -21,7 +22,7 @@ const copy = {
     factsLabel: "Rujukan komersial",
     facts: [
       ["15 tahun", "Pengalaman perdagangan panel rentas sempadan"],
-      ["9 keluarga", "Panel, WPC dan permukaan akustik"],
+      ["12 siri produk", "Papan, permukaan hiasan, WPC dan akustik"],
       ["Satu laluan", "Daripada spesifikasi hingga penyelesaian selepas jualan"],
     ],
     introEyebrow: "Keputusan perolehan yang boleh dipertanggungjawabkan",
@@ -94,10 +95,10 @@ const copy = {
     ctaButton: "Minta sebut harga",
   },
   ar: {
-    metaTitle: "Boreviax Panels | الخشب الرقائقي وMDF وWPC والألواح الصوتية",
+    metaTitle: "Boreviax Panels | الخشب الرقائقي وHPL وPET وPVC وWPC والألواح الصوتية",
     metaDescription:
-      "توريد دولي ودعم للمواصفات لمنتجات الخشب الرقائقي وMDF والألواح الحبيبية وFOSB وWPC والألواح الصوتية ذات الشرائح الخشبية.",
-    heroEyebrow: "خشب رقائقي · ألواح أثاث · WPC · أسطح صوتية",
+      "توريد دولي ودعم للمواصفات للخشب الرقائقي وألواح الأساس والأسطح الزخرفية HPL وPET وPVC وWPC والألواح الصوتية.",
+    heroEyebrow: "خشب رقائقي · أسطح زخرفية · WPC · ألواح صوتية",
     heroTitle: "توريد ألواح يحدّ من مفاجآت الإنتاج.",
     heroLead:
       "تنسق Boreviax تركيب اللوح والعينة المعتمدة ومصدر الإنتاج والأدلة والتعبئة وخطة التسليم، كي تحمي فرق الشراء الجودة والمدة واستمرارية الإنتاج.",
@@ -106,7 +107,7 @@ const copy = {
     factsLabel: "مراجع تجارية",
     facts: [
       ["15 عامًا", "خبرة في تجارة الألواح عبر الحدود"],
-      ["9 فئات", "ألواح وWPC وأسطح صوتية"],
+      ["12 سلسلة", "ألواح وأسطح زخرفية وWPC وألواح صوتية"],
       ["مسار واحد", "من المواصفات حتى إغلاق خدمات ما بعد البيع"],
     ],
     introEyebrow: "قرارات شراء واضحة المسؤولية",
@@ -206,7 +207,7 @@ export default async function LocalizedHome({ params }: PageProps) {
   const page = copy[locale];
   const products = getLocalizedProducts(locale);
   const coreProducts = products.slice(0, 7);
-  const surfaceProducts = products.slice(7);
+  const surfaceProducts = products.filter((product) => ["wpc-products", "acoustic-panels"].includes(product.slug));
   const priorityProducts = products.filter((product) =>
     ["flexible-plywood", "duraply", "functional-plywood"].includes(product.slug),
   );
@@ -264,6 +265,8 @@ export default async function LocalizedHome({ params }: PageProps) {
         <div className="shell section-heading-row"><div><p className="eyebrow">{page.coreEyebrow}</p><h2 className="section-title">{page.coreTitle}</h2></div><p>{page.coreIntro}</p></div>
         <div className="shell product-grid">{coreProducts.map((product) => <ProductCard key={product.slug} product={product} locale={locale} />)}</div>
       </section>
+
+      <DecorativeSurfacesSection locale={locale} />
 
       <section className="section surface-section" data-reveal>
         <div className="shell section-heading-row"><div><p className="eyebrow">{page.surfaceEyebrow}</p><h2 className="section-title">{page.surfaceTitle}</h2></div><p>{page.surfaceIntro}</p></div>

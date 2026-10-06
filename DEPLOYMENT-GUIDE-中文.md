@@ -1,5 +1,20 @@
 # Boreviax 板材网站部署说明
 
+## 已有 GitHub Desktop 仓库的更新步骤
+
+本次新增 HPL、PET、PVC 三个独立产品系列、103 款花色，以及英文、马来语、阿拉伯语内容。首页视频及现有产品页面已保留。
+
+1. 下载并解压最新的 `boreviax-panels-vercel.zip`。
+2. 在 GitHub Desktop 中选中板材网站仓库，点击 `Repository` → `Show in Explorer`（Mac 为 `Show in Finder`）。
+3. 打开解压后的 `boreviax-panels-vercel` 文件夹，把里面的内容复制到上一步打开的仓库文件夹，选择替换同名文件。目标仓库里应直接看到 `app`、`public`、`package.json`，不要再套一层文件夹。
+4. 返回 GitHub Desktop，Summary 填 `Add decorative surface collections`，点击 `Commit to main`。
+5. 点击 `Push origin`。等待现有 Vercel 项目自动部署完成，状态显示 Ready。
+6. 检查首页新增的 Decorative Surfaces 区块、产品总览分类、三个新产品页及语言切换。检查花色筛选、放大预览、样册下载和询价按钮。
+
+无需新建仓库、重新绑定域名或修改 DNS。此次没有替你直接更新线上网站；完成 Push 后才会发布到 Vercel。
+
+新页面路径：`/products/hpl`、`/products/pet-film`、`/products/pvc-film`。对应马来语、阿拉伯语页面分别带 `/ms`、`/ar` 前缀。
+
 ## 一、上传到 GitHub
 
 1. 解压 `boreviax-panels-vercel.zip`。

@@ -2,10 +2,11 @@ import type { Product } from "../data/products";
 import arabicProducts from "./products-ar.json";
 import malayProducts from "./products-ms.json";
 import type { LocalizedLocale } from "./config";
+import { getDecorativeProducts } from "../data/surfaces";
 
 const localizedProducts: Record<LocalizedLocale, Product[]> = {
-  ms: malayProducts as Product[],
-  ar: arabicProducts as Product[],
+  ms: [...(malayProducts as Product[]), ...getDecorativeProducts("ms")],
+  ar: [...(arabicProducts as Product[]), ...getDecorativeProducts("ar")],
 };
 
 export function getLocalizedProducts(locale: LocalizedLocale) {

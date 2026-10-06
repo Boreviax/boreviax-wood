@@ -1,3 +1,5 @@
+import { getDecorativeProducts } from "./surfaces";
+
 export type ProductSpec = {
   label: string;
   value: string;
@@ -1037,6 +1039,7 @@ export const products: Product[] = [
     note:
       "Acoustic and fire references depend on the exact panel build. Request current EN 13501-1, ASTM E84 or acoustic evidence when the project specifies a rating.",
   },
+  ...getDecorativeProducts("en"),
 ];
 
 export function getProduct(slug: string) {
